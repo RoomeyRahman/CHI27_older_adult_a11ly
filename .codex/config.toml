@@ -1,0 +1,22 @@
+# Codex project configuration for the CHI 2027 submission repository.
+#
+# Codex reads settings from ~/.codex/config.toml, not from here. This file records the posture this
+# project expects; merge it into ~/.codex/config.toml, or pass the values with -c on the command line.
+# .codex/README.md carries the setup steps.
+
+# High reasoning effort: every task in this repository is analytic writing under strict evidence rules.
+model = "gpt-5.6-sol"
+model_reasoning_effort = "high"
+
+# Writing repository. Codex needs to write /analysis/ and /output/, and read /supplementary/ and
+# /references/. Nothing here needs to leave the machine except literature verification, which
+# $chi-literature-scout requests explicitly.
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[sandbox_workspace_write]
+network_access = false
+
+# --- merge this block into ~/.codex/config.toml to trust the project ---------
+# [projects."/Users/roomeyrahman/Documents/Research/CHI27/Older-Adult-A11ly"]
+# trust_level = "trusted"

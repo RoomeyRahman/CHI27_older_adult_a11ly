@@ -1,0 +1,11 @@
+# Repo-local override for the shared latex service in
+# /Users/roomeyrahman/Documents/configurations/docker-compose.yml.
+# That file's `latex` service volume points at a different project
+# (Stutter_Paper_writing); this override remaps it to this repo's
+# output/latex/ without touching the shared file. Loaded automatically
+# by the Makefile via `-f docker-compose.override.yml` on top of the
+# shared compose file.
+services:
+  latex:
+    volumes:
+      - /Users/roomeyrahman/Documents/Research/CHI27/Older-Adult-A11ly/output/latex:/workdir

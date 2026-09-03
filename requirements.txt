@@ -1,0 +1,8 @@
+# Style-benchmark dependencies for benchmark.py, used by the /polish skill.
+# Setup:
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+#   .venv/bin/python -m spacy download en_core_web_sm
+spacy
+textstat
+tabulate

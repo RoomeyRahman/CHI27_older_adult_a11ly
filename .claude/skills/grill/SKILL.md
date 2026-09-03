@@ -1,0 +1,28 @@
+---
+name: grill
+description: Runs a full adversarial SIGCHI review panel (AC plus two reviewers) on a drafted section or the whole paper, scoring it against the Best Paper Standard and producing a ranked, actionable revision plan. Use before considering any section final.
+argument-hint: [section-name-or-"paper"]
+---
+
+We are stress-testing `$1` against the CHI review process before a human reviewer ever sees it. Read `/output/$1.md` (or every file in `/output/` if the argument is "paper"), `/proposal/proposal.md` (the single canonical framing document, CLAUDE.md Sections 2 and 3.4), `/analysis/theory-ledger.md`, `/Training/writing-style.md` (the canonical style guide, CLAUDE.md Section 7), `/system/` where the draft makes any autonomy claim, and the relevant `/supplementary/` sources. Then execute this protocol.
+
+### Phase 1: Reviewer Panel Simulation
+
+Produce three independent reviews, each in the standard CHI structure (contribution summary, strengths, weaknesses, questions to authors, score 1 to 5 with the CHI anchor labels):
+
+- **R1, the domain expert** in aging, care, and computing in the Global South. Hunts for deficit language about older adults and tests the six framing commitments (CLAUDE.md Section 2.4) sentence by sentence: does the care network stay the unit of analysis or does the prose slide back to the lone user; does the text treat checking as an empirical question rather than assuming surveillance or assuming benignity; does it read silence and non-use as patterned participation rather than as failure; does gamification stay a relational trigger rather than a behavioral lever. Tests whether older adults and caregivers appear as people who decide, grant, contest, and refuse, or as specimens. Verifies the work engages the intermediated-use, proxy-use, and postcolonial computing literature honestly rather than as a strawman, and flags any sentence that extends a claim from Bangladesh to the Global South at large.
+- **R2, the methods hawk.** Audits every count against CLAUDE.md Section 3 and against the filed source behind it, and flags any number, quote, date, or demographic that traces only to CLAUDE.md rather than to a file in `/supplementary/`. Tests replicability from the Method text alone: recruitment, instruments, session structure, the decision-log schema, the analytic procedure, positionality, and consent in a collectivist household. Flags any quote not traceable to a filed transcript, any quote that reads as composed or paraphrased into quotation marks, and any unconfirmed real participant name (CLAUDE.md Section 3.2 pseudonym rule). Flags as a fabrication risk: any sentence reporting Study 3 household data before Study 3 has run (Section 3.3); any network or allegiance claim sourced to Study 2's six young-skewed participants (Section 3.2); any described agent capability that `/system/` does not show implemented and logged (Section 3.3); any use of the unresolved monetized-points detail (Section 3.2). Checks the two-source rule (Section 5.3) and flags any single-instance finding not labeled as such, and any decision log counted as corroboration where the logged episode is not the interview episode.
+- **AC, the meta-reviewer** evaluating against the Best Paper Standard (CLAUDE.md Section 9): nameable contribution by page 2, correctly classified against C1 empirical, C2 conceptual, and C3 design; theory carrying load (apply the Section 10 enforcement rule paragraph by paragraph); earned surprise, with each seeded tension of Section 9.3 present alongside its counter-case rather than sanded smooth; transcendence beyond the case, generalized to agents serving a plural principal without extending an empirical claim past Bangladesh; and whether each of RQ1, RQ2, and RQ3 is answered in Findings and consequential in Discussion. The AC also runs a **style audit** against `/Training/writing-style.md`'s "Before you send it" checklist as bound by CLAUDE.md Section 7 (banned words, dashes, announcement openers, stacked hedging, causal language without a controlled design, straw-man contrast frames, glossed quotations, summary endings, verbs above their evidence rung, priority claims, terminology drift away from the fixed names, and any appearance of the word "polyadic"). Style defects rank below framing, evidence, theory, and structure defects in Phase 2, and the standing repair recommendation for a broad pattern of them is `/polish $1` rather than a `/revise` invocation; a single-sentence style defect may still get a targeted fix.
+
+Reviews must cite specific sentences or paragraphs from the draft. Vague criticism ("could be stronger") is forbidden; every weakness names the text and the fix.
+
+### Phase 2: Verdict & Triage
+
+- **Composite verdict:** would this section survive at a top-tier bar, and what separates it from a Best Paper?
+- **Ranked defect list:** every weakness ordered by severity (framing violations and evidence failures first, then theory decoration, then structure, then style), each with file, location, and a concrete repair.
+- **False alarms:** reviewer complaints that are actually wrong given our data or scope, with the rebuttal we would write.
+- **Contradictions:** any conflict found between `/proposal/proposal.md` and `/supplementary/`, reported rather than resolved (CLAUDE.md Section 3.4).
+
+### Phase 3: Handoff
+
+Do not modify `/output/` files in this skill. End by outputting the exact `/revise` invocations (section name plus condensed feedback string) that would execute the ranked content repairs, plus a `/polish $1` recommendation whenever the style audit found a broad pattern rather than isolated slips, so the user can fire them selectively.
