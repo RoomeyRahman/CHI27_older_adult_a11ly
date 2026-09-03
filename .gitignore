@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+
+# Python (benchmark.py deps, see requirements.txt)
+.venv/
+__pycache__/
+*.pyc
+
+# LaTeX build artifacts (latexmk/pdflatex/bibtex intermediates)
+output/latex/*/*.aux
+output/latex/*/*.log
+output/latex/*/*.out
+output/latex/*/*.bbl
+output/latex/*/*.blg
+output/latex/*/*.fls
+output/latex/*/*.fdb_latexmk
+output/latex/*/*.synctex.gz
+output/latex/*/*.toc
+output/latex/*/*.lof
+output/latex/*/*.lot
+output/latex/*/*.bcf
+output/latex/*/*.run.xml
+output/latex/*/*.xdv
