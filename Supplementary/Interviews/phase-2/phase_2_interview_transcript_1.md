@@ -1,0 +1,277 @@
+# Phase 2 Interview Transcript
+
+**Participant:** Chhabi Rani Basu  
+**Age:** 67  
+**Gender:** Female
+
+## Phase 2: Post-Deployment Evaluation Interview
+
+### Section 1: Affiliation Ledger & Negotiating Allegiance
+
+**Interviewer:** Apa, now after using the medicine assistant, how do you feel about it helping you and also your family with your medicines?
+
+**Respondent:** It is good. I take the medicine myself, but my son helps me with the medicine. So if the assistant helps both, then it is useful.
+
+**Interviewer:** The assistant tells you that it is working for you as well as the family member who helps you. Do you feel comfortable with that?
+
+**Respondent:** Yes. My son already knows my medicines. He brings them and tells me which one to take. So this is not something very different.
+
+**Interviewer:** Does it feel like the assistant is watching you too much?
+
+**Respondent:** No, not if it only tells me medicine time. That is okay. But if it keeps telling everything to my son, then no. He does not need to know every small thing.
+
+**Interviewer:** What should your son know?
+
+**Respondent:** If I did not take medicine, then he can know. If medicine is finished, that also he should know. These things are useful.
+
+**Interviewer:** What about normal reminders?
+
+**Respondent:** Those can come to me. Then I take it myself. No need to tell him every time.
+
+**Interviewer:** Has the assistant become part of your normal family routine?
+
+**Respondent:** Yes, little by little. Before my son would tell me, this one now, this one later. Now if the reminder comes, I know it is medicine time. My son still helps when needed.
+
+**Interviewer:** Do you feel you have become more independent because of it?
+
+**Respondent:** For taking, yes maybe. I already take myself. But knowing the medicine is still difficult. My son knows more.
+
+**Interviewer:** Would you want the assistant to decide things for you?
+
+**Respondent:** No no. Doctor decides medicine. The assistant can remind. If something changes, my son and doctor should check.
+
+---
+
+### Section 2: Veto Power, Risk, and Silence
+
+**Interviewer:** If the assistant tells you to take a medicine but you think it is not the right one, what would you do?
+
+**Respondent:** I would not take it directly. I would ask my son. If he is not there, then I would wait and ask someone. Why will I guess.
+
+**Interviewer:** Would you feel comfortable stopping the reminder?
+
+**Respondent:** Yes. If it is wrong then I should stop. I don't want to take a wrong medicine because the machine said it.
+
+**Interviewer:** What if the assistant gives another reminder because you did not confirm the first one?
+
+**Respondent:** That is okay. Sometimes I am talking or doing something and I don't hear it. One more reminder is good.
+
+**Interviewer:** What if it keeps reminding you many times?
+
+**Respondent:** Then it becomes irritating. Two times is enough maybe. After that it can tell my son if I did not answer.
+
+**Interviewer:** If you do not respond, does that mean you did not take the medicine?
+
+**Respondent:** No. Maybe I took it and forgot to press. Or maybe I did not hear. So someone should check first.
+
+**Interviewer:** Would you want your son to be told if you stay silent for some time?
+
+**Respondent:** Yes, that is good. My son should know if I did not respond for a long time.
+
+**Interviewer:** Would you want the assistant to immediately alarm the whole family?
+
+**Respondent:** No no. Not everybody. My son is enough. He knows my medicine.
+
+**Interviewer:** Does the assistant feel like a warning system now?
+
+**Respondent:** Mostly it is just telling me medicine time. Warning is only when something is missed. That is okay.
+
+---
+
+### Section 3: Care Collectivism & “Checking as Love”
+
+**Interviewer:** Before using the assistant, how did your family remind you about your medicines?
+
+**Respondent:** My son would tell me. His wife also asks sometimes. If I am taking myself, they may ask did you take it. Like that.
+
+**Interviewer:** Has the assistant changed that?
+
+**Respondent:** Yes. Now they don't have to ask every time. The reminder comes. If I don't take or don't answer, then they can ask.
+
+**Interviewer:** Do you miss your son reminding you himself?
+
+**Respondent:** No, he still reminds me sometimes. But he has work also. If the phone can remind me, then it is easier for him.
+
+**Interviewer:** When your son checks whether you took your medicine, does that feel like care?
+
+**Respondent:** Yes. He is my son. Of course it feels like care. If he asks, I don't mind.
+
+**Interviewer:** What happens when your medicine changes?
+
+**Respondent:** Then my son checks the new medicine. I don't know all the names. He sees the prescription and brings it.
+
+**Interviewer:** Would you trust the assistant if it showed the old medicine after the doctor changed it?
+
+**Respondent:** No. Then my son has to change it. Doctor's new medicine is important.
+
+**Interviewer:** What if the assistant and your son say different things?
+
+**Respondent:** I will ask my son what doctor said. If needed he will ask the doctor. I will not decide myself.
+
+**Interviewer:** Do you think medicine changes should be discussed in the family?
+
+**Respondent:** Yes. Because my son brings the medicine. If something changes, he should know. Otherwise he may bring the old one.
+
+**Interviewer:** So the assistant is helping the family rather than replacing the family?
+
+**Respondent:** Yes. That is better. Family should still help. The machine can remind, but family knows me.
+
+---
+
+### Section 4: Gamification as a Relational Trigger
+
+**Interviewer:** The assistant shows points or a streak when you take your medicine regularly. What do you think about that?
+
+**Respondent:** It is okay. I don't really understand all these points, but if it shows that I am taking properly, then good.
+
+**Interviewer:** If your son saw that you had a good streak, would that be useful?
+
+**Respondent:** Yes. He can see I am taking regularly. He may say good, keep taking.
+
+**Interviewer:** Would you like family members to encourage you?
+
+**Respondent:** Yes. If they say good, you are doing properly, I feel good. It is nice.
+
+**Interviewer:** What if the streak breaks?
+
+**Respondent:** First I would see if I really missed medicine. Sometimes I may take it but not press something. So don't worry just because the number changed.
+
+**Interviewer:** Would a broken streak make you anxious?
+
+**Respondent:** No, not because of the score. If I missed the medicine then I worry about the medicine. The points are not important.
+
+**Interviewer:** Would you want the score to be private or shared with your family?
+
+**Respondent:** Family can see. Other people don't need to see. Why should they know about my medicine.
+
+**Interviewer:** Would you want the assistant to give you prizes or make the points very important?
+
+**Respondent:** No no. Simple is better. Medicine is not a game. If it gives some encouragement, okay.
+
+---
+
+### Section 5: Probationary Trust & Retraining
+
+**Interviewer:** When you first started using the assistant, did you trust it immediately?
+
+**Respondent:** No. My son showed me first. I was checking whether it was telling the right thing.
+
+**Interviewer:** What did you check?
+
+**Respondent:** Whether the medicine was the one I take. Morning one, night one. My son checked also.
+
+**Interviewer:** After using it for some time, did you become more comfortable?
+
+**Respondent:** Yes. When it kept giving the reminder correctly, I became used to it. Now when it speaks, I know it is medicine time.
+
+**Interviewer:** Did you stop checking with your son?
+
+**Respondent:** No. If I know the medicine then I take it. If I don't know, I ask him. Especially if packet looks different.
+
+**Interviewer:** Has the assistant replaced your memory?
+
+**Respondent:** No. I still know some medicines by looking. But sometimes I forget the time. The reminder helps with that.
+
+**Interviewer:** Has it changed your routine?
+
+**Respondent:** A little. Before I mostly remembered from food time. Now the reminder also tells me. So I don't have to think so much.
+
+**Interviewer:** Do you feel less worried about forgetting?
+
+**Respondent:** Yes, a little less. Sometimes I am doing work or talking and I forget. If the phone tells me, then I remember.
+
+**Interviewer:** Does the assistant help you become more independent?
+
+**Respondent:** In taking the medicine, yes. I don't need someone to put it in my hand. I can take it myself. But for bringing medicine and checking names, I still need my son.
+
+**Interviewer:** So has it replaced your memory or helped make the routine easier?
+
+**Respondent:** Easier. It helps me remember the time. It does not replace my son or doctor.
+
+---
+
+### Section 6: Closing & Plural Principal
+
+**Interviewer:** Finally, who do you think the assistant works for?
+
+**Respondent:** For me first because I take the medicine. But it also helps my son because he worries about my medicine.
+
+**Interviewer:** If something goes wrong, who should the assistant contact?
+
+**Respondent:** My son. He knows the medicine. If he thinks there is a problem, he can ask the doctor.
+
+**Interviewer:** When is it okay for the assistant to involve your family?
+
+**Respondent:** If I miss medicine or medicine is finishing. Those things are okay. They already help me with these things.
+
+**Interviewer:** Should it tell your family every time you take a medicine?
+
+**Respondent:** No no. That is not needed. If everything is okay, let me take it. Tell them only if there is a problem.
+
+**Interviewer:** What would make you stop trusting the assistant?
+
+**Respondent:** If it tells me the wrong medicine. Or if it tells me to take something the doctor did not give. Also if it speaks too much and keeps disturbing me.
+
+**Interviewer:** What is the most useful part for you?
+
+**Respondent:** Voice reminder. That is the best for me. I can hear it. I don't have to read small writing.
+
+**Interviewer:** What language should the voice use?
+
+**Respondent:** Bangla. Bangla is better. English I don't understand properly.
+
+**Interviewer:** What about written instructions?
+
+**Respondent:** Big writing is better. Small letters are difficult. If there is a picture also, then good.
+
+**Interviewer:** What kind of picture would help?
+
+**Respondent:** Morning can have one picture, night another. Sun and moon maybe. Then I can understand. Medicine picture can also help.
+
+**Interviewer:** Would it help if the assistant showed you the picture of the medicine strip?
+
+**Respondent:** Yes. Because I know some medicines by looking at the packet. If it shows the packet, I can compare.
+
+**Interviewer:** What about prescription reading?
+
+**Respondent:** That would be useful, but my son should check it. I cannot read all the writing. If the phone can show what the doctor wrote in big Bangla, then I can understand better.
+
+**Interviewer:** Would you want the prescription stored in the assistant?
+
+**Respondent:** Yes, if my son puts it there. Then if we need to check, we don't have to find the paper.
+
+**Interviewer:** Would you want a reminder before the medicine finishes?
+
+**Respondent:** Yes. That is very useful. Sometimes I see only a few tablets are left and then I tell my son. If the phone tells him before that, then he can bring it.
+
+**Interviewer:** What about when you are going somewhere?
+
+**Respondent:** It can remind us to take the medicine with us. Sometimes if we go somewhere, medicine can be left at home. That would help.
+
+**Interviewer:** What if there are guests and you are busy talking or doing work?
+
+**Respondent:** That is when I can forget. Voice reminder will help. Someone does not have to remember at that exact time.
+
+**Interviewer:** If the assistant had too many buttons and instructions, would you use it?
+
+**Respondent:** No. I cannot do all those things. My son can set it. For me it should say medicine time, I take it, finished.
+
+**Interviewer:** So you want your son to set it up and you mainly use the reminder?
+
+**Respondent:** Yes yes. That is easiest.
+
+**Interviewer:** Has the assistant changed how you feel about managing your medicines?
+
+**Respondent:** Yes, it feels a little easier. Taking medicine was not the difficult part. Remembering sometimes and knowing the medicine is difficult. The reminder helps with remembering.
+
+**Interviewer:** If you could change one thing about the assistant, what would you change?
+
+**Respondent:** Make the voice clear and Bangla. Big writing. Picture also. And tell my son before medicine finishes.
+
+**Interviewer:** Anything else you want to add?
+
+**Respondent:** No. If it reminds me and helps my son, then good. But doctor should decide the medicine. We should not depend on the machine for that.
+
+**Interviewer:** Thank you, apa.
+
+**Respondent:** Okay baba.

@@ -1,0 +1,119 @@
+# Phase 2 Interview Transcript
+
+**Participant:** Abul Hasin  
+**Age:** 78 years old  
+**Gender:** Male   
+
+## Phase 2: Post-Deployment Evaluation Interview
+
+### Section 1: The Affiliation Ledger and Negotiating Allegiance
+
+**Interviewer:** Assalamu Alaikum, uncle. Now that you have been using the medicine assistant for some time, I wanted to ask how it felt when the agent clearly told you who it was working for.
+
+**Abul Hasin:** Walaikum Assalam, baba. At first I found it a little strange, yes. Because normally a phone does not say these things. It just gives you a reminder and that is all. When it said it is working for me, I understood it better. I knew, okay, this reminder is for me. And when it said it is also working with my family, I understood that also.
+
+**Interviewer:** Did that make the technology feel more transparent, or did it sometimes feel intrusive at home?
+
+**Abul Hasin:** More transparent, I think. I like knowing what it is doing. But sometimes, yes, if it says something in front of everyone, then I feel a little, what do you call it, exposed. Not very bad. My family already knows about my medicines. Still, there are some things I want to manage myself.
+
+**Interviewer:** Can you tell me about the last time the agent changed from working privately with you to also alerting your family?
+
+**Abul Hasin:** Yes, there was one evening I had not taken the diabetes tablet. I was watching the news and then talking with my son about something. The agent reminded me first. I did not respond because I thought I would take it after finishing the news. Then later it asked for permission to involve the family, something like that. I agreed. After that my son came and asked me if I had taken it. So that was the shift.
+
+**Interviewer:** When you allowed it to involve your son, did that feel like giving up some independence, or more like a mutual act of trust?
+
+**Abul Hasin:** No, I would not say giving up independence. I still take the medicine myself. My son is not putting the tablet in my mouth. He is just checking. So it felt more like trust. If I cannot remember one time, then someone else can help. That is normal in a family.
+
+### Section 2: Veto Power, Risk, and Silence
+
+**Interviewer:** When the agent wanted to alert your family about a missed dose, you could stop it. Did you ever use that veto?
+
+**Abul Hasin:** Yes, I did a few times. Sometimes I knew I had taken the medicine but I had not responded to the agent. Then I stopped the family alert because there was no need to worry them.
+
+**Interviewer:** What happened when the agent pushed back on your veto because the health risk was becoming higher?
+
+**Abul Hasin:** That was a little irritating at first, yes. I thought, I already told you, why are you asking again. But then I understood why it was doing that. If I keep saying no and actually I have not taken the medicine, then it becomes dangerous. So when it pushed back, I did not like it very much, but I could understand.
+
+**Interviewer:** Did it feel like the agent was taking control away from you?
+
+**Abul Hasin:** No, not exactly. It was still giving me the choice first. But when I kept ignoring it, then it became more serious. I think that is okay for medicine. For other things, no, no need. But medicine is different.
+
+**Interviewer:** There were also times when you did not respond at all. How did the agent handle your silence?
+
+**Abul Hasin:** Usually it reminded me again. Sometimes I was talking to someone or I was outside, so I did not see it. It did not immediately treat it like I had done something wrong. It waited and then reminded me. That was good.
+
+**Interviewer:** Did you feel it understood your silence as part of your normal routine, or did it sometimes treat silence as a failure?
+
+**Abul Hasin:** Mostly it understood. But sometimes if I was busy, the repeated reminder felt like it was thinking I had forgotten. Maybe I had forgotten, maybe I had not. That part cannot know everything. So I would say it was useful, but it should not assume too quickly.
+
+### Section 3: Care Collectivism and Checking as Love
+
+**Interviewer:** Before using the agent, your family would check whether you had taken your medicine. How has that changed now?
+
+**Abul Hasin:** They ask less, yes. Before my daughter-in-law would sometimes say, uncle, did you take your medicine, and my son also. Now the phone reminds me first. So there is less checking. But they still ask sometimes, especially if the agent tells them something.
+
+**Interviewer:** Do you miss those manual check-ins, or has the agent given your family a new reason to talk and show care?
+
+**Abul Hasin:** I do not miss being asked every time, no. Sometimes it was a little irritating. But I like when they ask in a normal way. That is family. The phone cannot replace that. If my son comes and says, baba, did you take it, that is different from a phone message. It feels more caring.
+
+**Interviewer:** So has the agent reduced care or changed the way care happens?
+
+**Abul Hasin:** Changed it, I think. It has reduced the small checking, but it has not reduced the care. My family still looks after me. They buy the medicine, they make sure I have water, they ask about my breathing. The agent is doing one small part.
+
+**Interviewer:** Think about a time when a prescription was unclear or you had to make a sudden health decision. Did the agent help in the family discussion or get in the way?
+
+**Abul Hasin:** There was one time when I was not sure about the timing of one medicine after a prescription change. I did not want to guess. The agent reminded me about the old timing, but then my son checked with the doctor. So in that case it helped us remember what we were doing before, but it did not decide for us. That was better. For medicine changes, doctor and family should discuss. The phone should not act like a doctor.
+
+### Section 4: Gamification as a Relational Trigger
+
+**Interviewer:** When you reached a high score or a long streak, how did your family react?
+
+**Abul Hasin:** They laughed about it sometimes. My son would say, oh, baba is doing better than all of us. Something like that. My daughter-in-law also noticed the streak once and said good, keep going. It was nice, yes. It made the medicine thing a little less boring.
+
+**Interviewer:** Did your son or daughter-in-law use your score to praise or encourage you?
+
+**Abul Hasin:** Yes, my son did. He would sometimes ask what my score was. If I had a good streak, he would say, very good, don't break it now. Not in a serious way. More like encouragement.
+
+**Interviewer:** Think about a time when the streak was broken. Did that cause anxiety or did your family encourage you?
+
+**Abul Hasin:** One time I missed the evening dose and the streak broke. I was a little upset because I had kept it for many days. But my son said, okay, it happened, take the next one properly. So after that I did not worry too much. If I was alone, maybe I would have felt more annoyed. With family, they made it into a small thing.
+
+**Interviewer:** Would you prefer keeping your score private, or does sharing it with your family make the experience better?
+
+**Abul Hasin:** I don't mind sharing it with family. With strangers, no. But family can know. If they use it to encourage me, then it is useful. I would not want the score to become another thing they keep checking all the time though.
+
+### Section 5: Probationary Trust and Retraining
+
+**Interviewer:** When the agent was first introduced, did you put it on a kind of probationary period before trusting it?
+
+**Abul Hasin:** Yes, yes, definitely. I did not trust it immediately. First I watched what it was doing. I knew when my medicine time was, so I checked whether the phone reminded me at the right time. If it said something wrong, I would not follow it.
+
+**Interviewer:** How did you test it before relying on it for your health?
+
+**Abul Hasin:** Mostly I compared it with my normal routine. After breakfast, after dinner, the breathing medicine, these things I already knew. So I watched the reminders for some days. My son also checked the settings. After it was giving the correct reminders again and again, then I started depending on it more.
+
+**Interviewer:** After using it for these weeks, do you feel it has replaced your own memory, or has it retrained your sense of when a dose is due?
+
+**Abul Hasin:** I think both a little. Before, I depended on habit. Now I still know the usual time, but I also wait for the reminder sometimes. So maybe I am depending on it more. But at the same time, the repeated timing has made me remember the dose time better. Sometimes I know it is almost time before the phone says anything. So it has not completely replaced my memory.
+
+**Interviewer:** If the agent stopped working tomorrow, would you still know when to take your medicines?
+
+**Abul Hasin:** Yes, I think I would. Maybe I would miss one sometimes, especially if the routine changes. But I know the general timing. My family would also remind me. So I would manage, but the phone has made it easier.
+
+### Section 6: Closing and the Plural Principal
+
+**Interviewer:** Uncle, if you had to summarize it, who do you feel this AI agent ultimately works for, you, your family, or both?
+
+**Abul Hasin:** Both, baba. First it works for me because I am the one taking the medicine. But it also works for my family because they worry about me. If I miss something, they want to know. So it cannot be only for me.
+
+**Interviewer:** Under what conditions is it acceptable for the agent to stop acting as your private tool and start acting as your family's advocate?
+
+**Abul Hasin:** If I miss a medicine and I do not respond, then yes, tell my family. If there is a serious health risk, also yes. But if I am just late by a few minutes, no need to involve everyone. Give me some time first. I should get the first chance to manage it myself.
+
+**Interviewer:** So what would make that balance feel right for you?
+
+**Abul Hasin:** Give me the first chance, then give me another reminder. If I still do not respond, then tell my son or whoever is responsible. That way I have my independence, but my family is also there when I need them. That is enough.
+
+**Interviewer:** Thank you, uncle. Is there anything else you would like to say about having the agent as part of your household?
+
+**Abul Hasin:** Just that it should remain simple. I am seventy-eight. I don't want too many things happening on the phone. Remind me, let my family know when it is actually necessary, and don't try to do the doctor's work. If it can do those things properly, then it is useful. Yes, that is all.
