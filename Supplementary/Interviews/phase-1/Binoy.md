@@ -1,0 +1,243 @@
+**Interviewer:** Alright, so we'll talk a little bit about your medicine intake. First, can you tell me your name and age? And a little bit about yourself?
+
+**Respondent:** My name is Binoy Kanti Roy. I am 72 years old. I am a businessman. I still look after my business, but now my sons help me also. I don't go everywhere like I used to before. Mostly I stay around here.
+
+**Interviewer:** Okay. And how is your day usually? You stay here in the city, right?
+
+**Respondent:** Yes, yes. This is a small city, so life is not too difficult. I know many people here. I have my business, my family, and I also have a laughing club. We meet there, talk, laugh, sometimes talk about health and medicine also. Everybody has some problem at this age.
+
+**Interviewer:** Right. So your family is also involved in these health-related things?
+
+**Respondent:** Yes, family is very important. We discuss these things with family. My sons know about my medicines. If there is any problem, I tell them. I don't like to do everything secretly or alone.
+
+**Interviewer:** Okay. So how do you usually take your medicines each day? Can you tell me a little bit about your normal routine?
+
+**Respondent:** I take medicine once in the morning, and then three times at night.
+
+**Interviewer:** Three times at night? So altogether, four times in a day?
+
+**Respondent:** Yes, yes, four times.
+
+**Interviewer:** And when it is time to take the medicine, what do you normally do? Like, you pick up the medicine, take it with water, that kind of thing?
+
+**Respondent:** Yes, normally I know which medicine I have to take. I take the medicine and water, then that's it. Because I have been taking them for a long time, so I know most of them.
+
+**Interviewer:** Do you keep all the medicines in one particular place?
+
+**Respondent:** Yes, mostly I keep them in the same place at home. If they are in the same place, then it is easier to find them.
+
+**Interviewer:** How many medicines are currently prescribed? Do you have an idea?
+
+**Respondent:** There are several medicines. I don't always count them, but I take different medicines at different times.
+
+**Interviewer:** Are they all taken together, or are they spread out throughout the day?
+
+**Respondent:** They are spread out. Morning one, then at night different times. I know the routine.
+
+**Interviewer:** Okay. So how do you keep track of which medicine to take and when?
+
+**Respondent:** I remember. I don't use any special method. I try to remember everything myself.
+
+**Interviewer:** You don't use notes, a calendar, pillbox, anything like that?
+
+**Respondent:** No, no. Nothing like that.
+
+**Interviewer:** What about your phone? Do you set alarms?
+
+**Respondent:** No. I have a smartphone, but I don't use it for medicine.
+
+**Interviewer:** So basically you depend on your memory and your normal routine?
+
+**Respondent:** Yes, exactly. I remember the times. And sometimes my family also asks me, "Did you take your medicine?" So that also helps.
+
+**Interviewer:** If I asked you to show me where you normally check your medicine information, what would you show me?
+
+**Respondent:** I would just show you the place where I keep the medicines. I don't really check anything on the phone or anywhere else. I know from memory.
+
+**Interviewer:** What part of this routine works well for you?
+
+**Respondent:** At home, it works well. Because everything is in the same place and my routine is fixed. So I don't have much problem.
+
+**Interviewer:** And what part feels difficult?
+
+**Respondent:** When the routine changes. If I go somewhere, or there is some work, or I am talking with people, then sometimes I forget.
+
+**Interviewer:** If you could fix one thing about this whole routine, what would you fix?
+
+**Respondent:** The forgetting part. If somehow I could get a reminder at the right time, that would be good.
+
+**Interviewer:** Have you ever missed a dose?
+
+**Respondent:** Yes, sometimes I miss because of forgetfulness.
+
+**Interviewer:** Can you remember the last time that happened? What was going on at that time?
+
+**Respondent:** I don't remember the exact day. But usually it happens when I am busy or when my normal routine is changed. Maybe I am outside, talking with somebody, or doing some business work. Then the time passes.
+
+**Interviewer:** And when you realize that you missed it, what do you normally do?
+
+**Respondent:** Then I take that medicine in the next phase of the day.
+
+**Interviewer:** Do you check with anybody before doing that?
+
+**Respondent:** If I am not sure, I discuss with my son. We talk and then take the decision.
+
+**Interviewer:** So it is not only you managing everything. Your family is kind of a backup?
+
+**Respondent:** Yes, yes. Family is there. If there is any difficulty, I discuss with them.
+
+**Interviewer:** Are there times when managing medicines becomes particularly challenging? Maybe when you are away from home or travelling?
+
+**Respondent:** Yes, travelling is more difficult.
+
+**Interviewer:** What happens when you travel?
+
+**Respondent:** At home, everything is fixed. I know where the medicine is, I know the time. When travelling, everything changes. Maybe I am in a car, maybe visiting somebody, maybe there is some program. Then I may forget the time.
+
+**Interviewer:** Do you take your medicines with you when you travel?
+
+**Respondent:** Yes, of course. I carry them. The medicine itself is not the problem. Remembering the timing is sometimes the problem.
+
+**Interviewer:** What if you have guests at home or there is a family event?
+
+**Respondent:** Same thing. If there is too much talking or people around, sometimes I forget. Normally somebody from the family may remind me.
+
+**Interviewer:** Do you use any digital technology, mobile phone, app, smart alarm, anything like that to help with your medicines?
+
+**Respondent:** No, not for medicine.
+
+**Interviewer:** But you do use a smartphone?
+
+**Respondent:** Yes, I use a smartphone.
+
+**Interviewer:** What do you normally use it for?
+
+**Respondent:** Calling, messages, watching things, talking with family. Normal use.
+
+**Interviewer:** Who originally set up the smartphone for you?
+
+**Respondent:** My son helped me in the beginning. They know these things better. Now I can use it myself for the things I need.
+
+**Interviewer:** What do you find easy or difficult about using technology for something like medicine?
+
+**Respondent:** If it is simple, I can use it. But if there are too many things, too many buttons, then I don't need that. I don't want to spend too much time on it.
+
+**Interviewer:** So if there was an app, you would prefer something simple?
+
+**Respondent:** Yes, very simple. I don't need many features.
+
+**Interviewer:** Are there any difficulties with reading medicine labels or understanding medical instructions?
+
+**Respondent:** Sometimes the prescription is difficult to understand. The writing can be difficult. Sometimes I take help from our local pharmacist.
+
+**Interviewer:** So you can read some of it, but sometimes you need help?
+
+**Respondent:** Yes. Sometimes I can understand, sometimes I ask the pharmacist. He knows us, so it is easy to ask him.
+
+**Interviewer:** Do you have any difficulty physically operating your phone or reading the screen?
+
+**Respondent:** No, not really. I can use the phone. But I don't want complicated things.
+
+**Interviewer:** Have you ever used technology to read a prescription?
+
+**Respondent:** No, never.
+
+**Interviewer:** If there was something that could read the prescription for you, would that make things easier?
+
+**Respondent:** Yes, yes. If it can read the prescription, that would be nice.
+
+**Interviewer:** What would you want it to tell you?
+
+**Respondent:** It should tell me clearly which medicine, how much, and when to take it. If the writing is difficult, the phone can explain it.
+
+**Interviewer:** Would you prefer large text, voice prompts, colour coding, or something else?
+
+**Respondent:** I don't have a specific preference. Whatever is clear is fine. If it speaks clearly, that's good. If the writing is big enough, that's also good.
+
+**Interviewer:** Who else in your household or family helps you with your medicines?
+
+**Respondent:** My sons help me. My elder son brings the medicines from the pharmacy.
+
+**Interviewer:** So you don't usually have to go to the pharmacy yourself?
+
+**Respondent:** No, my elder son brings it for me.
+
+**Interviewer:** And if you are unavailable for a day, who would take over?
+
+**Respondent:** My son can handle it. They already know about my medicines. We discuss these things.
+
+**Interviewer:** You mentioned your laughing club. Do you ever discuss medicines or health issues with people there?
+
+**Respondent:** Yes, sometimes. We sit together, talk about different things. Somebody will say, "I am taking this medicine," somebody will talk about blood pressure or other problems. We share experiences. But I don't blindly follow somebody's medicine advice. For my own medicine, I discuss with my family.
+
+**Interviewer:** That's interesting. So the community gives you a place to talk about these things, but your family is more important when you actually have to make a decision?
+
+**Respondent:** Yes, yes. The laughing club is for talking and sharing. For my own medicine, I discuss with my sons. They know my situation.
+
+**Interviewer:** How do you coordinate with healthcare providers or pharmacies regarding your medicines?
+
+**Respondent:** I don't have any healthcare provider whom I contact regularly. If there is a problem, I discuss with my eldest son, and sometimes we ask the pharmacist.
+
+**Interviewer:** So there isn't one particular doctor that you call every time?
+
+**Respondent:** No, not regularly.
+
+**Interviewer:** If there were an app that reminded you when to take your medicine, what would be the most useful feature for you?
+
+**Respondent:** The reminder. It should tell me when to take the medicine.
+
+**Interviewer:** Would it be useful if it told you whether to take it before or after food?
+
+**Respondent:** Yes, that would be very useful. Sometimes that is important. If it says before food or after food, then I don't have to remember that separately.
+
+**Interviewer:** Would you like the app to only give reminders, or also show information about the medicine?
+
+**Respondent:** Reminder would be good. I don't need too much information.
+
+**Interviewer:** So you would rather have something that tells you, "Take this medicine now," rather than a lot of information about the medicine?
+
+**Respondent:** Yes, exactly. Simple is better.
+
+**Interviewer:** What kind of notification would you prefer, voice notification or text notification?
+
+**Respondent:** Any kind of notification. Voice is okay, text is okay. As long as I can understand it.
+
+**Interviewer:** Would you want the reminder to be repeated if you don't respond?
+
+**Respondent:** Yes, maybe once again. Sometimes I may not hear it or I may be busy.
+
+**Interviewer:** And would you want your son to get a notification if you missed it?
+
+**Respondent:** It could be useful. But not for every small thing. If I really don't take it, then maybe family can know.
+
+**Interviewer:** If your son set up the app for you, would you be comfortable using it yourself afterward?
+
+**Respondent:** Yes. My son can set it up first. Once everything is there, I can just look at it and follow it.
+
+**Interviewer:** Would you trust something like that?
+
+**Respondent:** If it is simple and it gives the correct information, yes. But I would still discuss important things with my family.
+
+**Interviewer:** So you wouldn't want the technology to replace your family involvement?
+
+**Respondent:** No, no. Technology can help. But family is family. If there is a problem, I will still talk to my son.
+
+**Interviewer:** Is there anything else you would like to share about your daily experience with medicine management or technology?
+
+**Respondent:** No, not much. I manage normally. Sometimes I forget, that's the main problem. Otherwise it is okay.
+
+**Interviewer:** Any specific feature or change that you would really like to have?
+
+**Respondent:** Just a good reminder. Tell me which medicine, at what time, and before or after food. If it can read the prescription also, that would be helpful.
+
+**Interviewer:** And if you could imagine an AI assistant for your home, how would you want it to speak to you or your family?
+
+**Respondent:** It should speak respectfully and simply. Don't make it complicated. If it is talking to an older person, it should explain slowly and clearly. That's enough.
+
+**Interviewer:** Anything else?
+
+**Respondent:** No, that's all.
+
+**Interviewer:** Okay, thank you very much.
+
+**Respondent:** You're welcome.
