@@ -1,0 +1,144 @@
+# Method
+
+## Study Design
+
+We conducted a two-phase qualitative household study in Bangladesh from January to June 2026. The study examined how older adults and family caregivers organize medication work within the household and how those arrangements shaped their experiences with a medication-support prototype. All study sessions took place in participants' homes and were conducted in Bangla.
+
+**Phase 1** consisted of formative interviews, contextual observation, and medication-routine walkthroughs. We examined how medicines were stored and taken, how responsibilities were distributed among household members, how routines were disrupted, and how family members participated in reminding, checking, or otherwise supporting medication use. We analysed Phase 1 before developing the prototype.
+
+The Phase 1 analysis informed the prototype requirements. We then implemented the deployable features, installed the prototype in participating households, and asked participants to use it for two weeks.
+
+**Phase 2** consisted of post-deployment interviews conducted after this two-week period. These interviews examined participants' reported experiences with deployed features and their reasoning about several additional design mechanisms that had been specified but were not implemented. We kept these two forms of evidence separate throughout analysis: accounts of deployed features are treated as reported experiences of use, whereas responses to unimplemented mechanisms are treated only as judgments about proposed designs.
+
+We treated the household as the primary context of medication management because relatives often participated in purchasing medicines, reading labels, organizing doses, providing reminders, and checking whether scheduled doses had been taken [106]. Where such coordination occurred, we recruited an involved family caregiver as a participant in their own right. When an older adult and caregiver described the same household event differently, we retained both accounts rather than reconciling them into a single version.
+
+This sequencing allowed us to distinguish three bodies of evidence: existing medication practices documented in Phase 1, design decisions informed by that analysis, and post-deployment accounts collected in Phase 2.
+
+## Participants and Recruitment
+
+We recruited through snowball sampling, beginning with the research team's social networks and continuing through referrals from friends, colleagues, and community groups. Approximately 30 households were approached. Participation was voluntary and unpaid.
+
+Older adults were eligible if they were at least 65 years old and took medication daily. Family members were eligible if they performed medication-related work for an older adult living in the same household.
+
+The final sample comprised 25 participants: 17 older adults and eight family caregivers. Sixteen older adults participated in both phases and one participated only in Phase 2. Seven caregivers participated in both phases, while one participated only in Phase 1.
+
+Older adults were 65–80 years old (mean = 69.4; median = 68), including nine women and eight men. Eleven needed large text, including two who could not read, while nine described low or very low smartphone comfort. Five reported taking one medicine daily, three reported eight or more, and one reported thirteen medicines across three dose times.
+
+The eight caregivers included four women and four men. Six reported their age, ranging from 20 to 31 years. Their relationships to the older adults included daughters, sons, a daughter-in-law, and grandchildren. Tables 1 and 2 report participant-level demographic, medication, device, and caregiving information.
+
+**Table 1. Older adults taking daily medication (n = 17).**
+
+| ID  | Age | Gender | Daily medicines | Dose times/day | Deployment device    |
+| --- | --: | ------ | --------------: | -------------: | -------------------- |
+| P01 |  72 | M      |       4 or more |              4 | Own smartphone       |
+| P02 |  65 | M      |               1 |              1 | Household smartphone |
+| P03 |  66 | F      |          3 to 4 |              2 | Own smartphone       |
+| P04 |  69 | M      |               4 |              3 | Own smartphone       |
+| P05 |  68 | F      |               1 |              1 | Household smartphone |
+| P06 |  67 | M      |               1 |         1 to 2 | Household smartphone |
+| P07 |  71 | F      |          3 to 4 |      2 or more | Own smartphone       |
+| P08 |  67 | F      |          2 to 4 |              2 | Household smartphone |
+| P09 |  68 | F      |          3 to 4 |              3 | Household smartphone |
+| P10 |  78 | M      |               2 |              3 | Own smartphone       |
+| P11 |  65 | M      |          5 to 6 |              3 | Own smartphone       |
+| P12 |  71 | F      |               1 |              1 | Own smartphone       |
+| P13 |  66 | F      |               1 |              1 | Own smartphone       |
+| P14 |  66 | F      |               5 |   Not recorded | Not recorded         |
+| P15 |  80 | M      |         8 to 10 |              3 | Not recorded         |
+| P16 |  76 | F      |              13 |              3 | Not recorded         |
+| P17 |  65 | M      |               8 |              2 | Own smartphone       |
+
+**Table 2. Family caregivers (n = 8).**
+
+| ID  |          Age | Gender | Relation        | Older adults supported          | Daily medicines managed |
+| --- | -----------: | ------ | --------------- | ------------------------------- | ----------------------- |
+| C01 | Not recorded | F      | Daughter        | Mother and father               | 3 to 4, and 2           |
+| C02 | Not recorded | F      | Daughter        | Mother and grandfather          | 2 or more, and 3 to 4   |
+| C03 |           21 | M      | Son             | Father and mother               | 3 to 4, and 2           |
+| C04 |           31 | M      | Son             | Mother                          | 2                       |
+| C05 |           20 | F      | Daughter-in-law | Father-in-law and mother-in-law | 4 to 5                  |
+| C06 |           22 | F      | Granddaughter   | Grandmother                     | 5 to 6                  |
+| C07 |           25 | M      | Grandson        | Grandfather                     | 10                      |
+| C08 |           25 | M      | Grandson        | Grandmother and mother          | 5 to 6                  |
+
+## Prototype Development
+
+We developed the prototype after completing the Phase 1 analysis rather than beginning with a fixed feature set. The resulting requirements concerned timely reminders, medicine and timing information, reduced dependence on manually consulting a schedule, family awareness of unconfirmed doses, simplified interaction, readable presentation, and opportunities for family involvement.
+
+![Four-panel storyboard of the design concept: capturing a prescription, the schedule being set from it, a spoken reminder at dose time, and a routine the person can follow.](latex/CHI27_older_adult_accessibility/Figures/initial%20uses.jpg)
+
+**Figure 1** shows how these requirements informed the initial design concept. The concept included prescription capture, schedule creation, spoken reminders, and a medication routine organized around those reminders. Prescription capture was specified in the concept but was not implemented in the deployed prototype.
+
+Participants or family members therefore entered medication schedules manually. The deployed prototype delivered scheduled reminders containing the medicine name and timing and maintained a logbook, streak, and daily heat map. When a scheduled dose remained unconfirmed, the system could ask whether a family member should be notified. Participants could decline this request. Medication schedules and changes in whom the system served remained under human control.
+
+The streak and heat map were designed to make medication records visible within the household and create possible occasions for family response. This was a design rationale rather than an assumed effect of the system.
+
+![Loop diagram: the agent reminds, the dose is taken, a streak and heat map record it, a family member sees the record and says something, and the routine returns to the household. A dashed branch shows an unconfirmed dose reaching the family only after the agent asks and the older adult grants.](latex/CHI27_older_adult_accessibility/Figures/relational-trigger-loop.png)
+
+**Figure 2** presents the interaction loop implemented during deployment. After a scheduled reminder, an older adult could confirm taking the dose, which updated the medication record, streak, and heat map. When a dose remained unconfirmed, the family-notification path could proceed only after the participant granted permission.
+
+Four mechanisms in the broader design specification were not implemented in the deployed version: a risk-graded weakening veto, patterned interpretation of silence, a probationary onboarding mode, and shared family scores. Phase 2 included questions about these concepts, but participants' responses to them were not treated as evidence of use.
+
+## Data Collection
+
+### Phase 1: Formative Sessions
+
+Following prior situated-practice work [61, 9], Phase 1 examined medication practices before participants encountered the prototype. We used separate semi-structured interview guides for older adults and caregivers.
+
+The guides covered daily medication routines, medicine storage, disruptions, recent missed or delayed doses, reading and interaction conditions, family involvement, responsibility sharing, and handover when the usual helper was unavailable. Rather than asking only about general preferences, we asked participants to reconstruct recent episodes and demonstrate relevant parts of their routines in the places where medication work occurred [61, 9].
+
+The caregiver guide focused on caregivers' own work, including how responsibilities developed, what happened when they were unavailable, and how they determined whether a dose had been taken [106]. We distinguished caregivers' accounts of their own activities from descriptions of the older adult's experience and from jointly described household events.
+
+Each session followed the same general sequence: consent, observation of the immediate setting, semi-structured interviewing, a medication-routine walkthrough, and a closing design reflection. With permission, sessions were audio-recorded in Bangla. Researchers also documented medicine storage, relevant lighting and noise conditions, and household members involved during demonstrations.
+
+Phase 1 supports claims about existing medication practices and the requirements that informed prototype development. It provides no evidence about prototype use.
+
+### Prototype Deployment
+
+Researchers installed the prototype during a home visit and configured the initial medication schedule with the older adult or, where relevant, the family member operating the household device. Onboarding covered scheduled reminders, the logbook, and the spoken announcement identifying whom the system was serving.
+
+Nine older adults used personal smartphones, while five used household smartphones shared with or operated by relatives. Device information was unavailable for three participants. We treated shared and intermediated operation as part of the deployment context rather than as equivalent to independent smartphone use, consistent with prior accounts from the region [98, 33, 1].
+
+Participants used the prototype for two weeks before the Phase 2 interviews.
+
+### Phase 2: Post-Deployment Sessions
+
+We returned to participating households after the deployment and conducted post-deployment interviews in Bangla. When an older adult and an enrolled caregiver both participated, each discussed the same deployment period from their own perspective.
+
+Questions about deployed features covered reminders, announcements of whom the system was serving, requests for family involvement, occasions when participants declined those requests, family notifications, and medication records.
+
+The guide also presented the four mechanisms that were not implemented. Several probes described these mechanisms in language that could imply prior experience, so we did not treat agreement with those prompts as evidence that participants had used them. We also distinguished episodes or interpretations volunteered by participants from agreement expressed after a probe introduced a possible interpretation. Prompted agreement alone was treated as weaker evidence during analysis.
+
+Accordingly, accounts of deployed features support claims about participants' reported experiences during the two-week period. Responses to unimplemented mechanisms support only claims about how participants reasoned about the proposed designs.
+
+### Transcription and Translation
+
+The verified Bangla transcripts served as the primary analytic record. Automatic speech recognition produced preliminary Bangla transcripts, and machine translation produced initial English renderings. Neither automated output was treated as final.
+
+Two Bangla-fluent researchers verified every complete transcript against the corresponding audio and checked each English rendering against the verified Bangla source. Coding and interpretation were conducted using the Bangla records. When kinship terms, honorifics, or relational expressions were not adequately represented in English, we returned to the Bangla transcript.
+
+Automated systems supported preliminary transcription and translation only. They were not used for coding, theme development, or interpretation.
+
+## Data Analysis
+
+We analysed both phases using reflexive thematic analysis [15, 16]. Coding began inductively and was subsequently considered in relation to the research questions. We worked across semantic and latent levels where relevant and treated themes as researcher-constructed interpretations rather than entities that independently emerged from the data [15, 16].
+
+Analysis began with repeated reading and memoing. The two researchers who conducted the interviews developed preliminary codes and discussed interpretations iteratively with the supervising researcher. We did not calculate inter-rater reliability because coder agreement was not used as a criterion for theme validity within our reflexive approach [16, 93]. Instead, differences in interpretation contributed to analytic discussion.
+
+Researchers clustered related codes into candidate themes and repeatedly examined them against the underlying transcripts. Themes were revised, bounded, combined, separated, or renamed as analysis developed. When an interpretation depended on language not adequately represented in English, researchers returned to the Bangla record.
+
+The study sequence was preserved during analysis. Phase 1 interpretations were kept separate from the design decisions they informed, and both remained distinct from Phase 2 responses. Within Phase 2, accounts of deployed features were separated from judgments about unimplemented mechanisms.
+
+When an older adult and caregiver described the same household event differently, we retained that divergence as analytic material rather than resolving it into one household account. We maintained analytic memos, coding records, theme maps, and records of cases that complicated developing interpretations. We make no claim of thematic saturation.
+
+## Ethical Considerations
+
+The study received approval from the Brac University Ethics Committee before data collection began. All study procedures followed the approved protocol.
+
+Researchers explained the study purpose, procedures, voluntary nature of participation, audio recording, data use, and automated transcription and translation before obtaining informed consent. Study information was read aloud so participants who could not read received the same information. Consent was obtained individually, and separate permission was requested for audio recording. Caregivers consented independently from the older adults whose medication routines they might discuss.
+
+Personal names were replaced with participant identifiers, and the identifier key was stored separately from the analytic corpus. Participants could discontinue participation at any point.
+
+Three researchers conducted the study. Two conducted the interviews, transcript verification, and coding, while a third supervised the analysis. All three are fluent in Bangla and English. Recruitment began through the research team's social networks, which made some households more reachable than others [103, 75]. We therefore do not make population-level claims from the sample.
+
+The two-week deployment supports accounts of participants' experiences during that period rather than longer-term use. We did not measure medication adherence, medication errors, or health outcomes and make no claims that the prototype changed them. Responses to unimplemented mechanisms are similarly limited to participants' judgments about described designs rather than observed use.

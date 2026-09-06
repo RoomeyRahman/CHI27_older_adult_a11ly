@@ -1,0 +1,553 @@
+# Interview Conversation — Hemendro Lal Roy
+
+**Interviewer:** Okay, um, before we start the questions, I just want to understand a little bit about your usual environment. Where do you normally keep your medicine?
+
+**Respondent:** Hmm, I keep it here at home. Usually in the same place. I don't move it around much.
+
+**Interviewer:** Same place every day?
+
+**Respondent:** Yes, yes. If I keep it in different places, then I myself may forget where I put it. So, same place is better.
+
+**Interviewer:** And is it somewhere you can easily reach?
+
+**Respondent:** Yes, it's easy. I can take it myself. I don't need anybody to bring it every time.
+
+**Interviewer:** Do you keep any calendar, paper, pillbox, or note beside it to remind yourself?
+
+**Respondent:** No, nothing like that. I just keep the medicine there and remember.
+
+---
+
+## Phase 2: Background & Caregiver Context
+
+**Interviewer:** Okay, so, first of all, could you tell me your name and age? And maybe tell me a little bit about yourself.
+
+**Respondent:** My name is Hemendro Lal Roy. I am 65 years old. I live here in the village with my family. My life is mostly around the house, family, and people from around here.
+
+**Interviewer:** What does a normal day look like for you?
+
+**Respondent:** Hmm, normal day... I get up in the morning, have tea, then I usually go outside for a little while. Sometimes we walk, sometimes we do some simple exercise.
+
+**Interviewer:** You do that with other people?
+
+**Respondent:** Yes, yes. A few people from the area come. We know each other very well. So, we exercise and talk together. It's not really like going to a gym or anything. Just walking, moving around, talking.
+
+**Interviewer:** And do you do that almost every morning?
+
+**Respondent:** Most days, yes. If the weather is bad or if there is some work at home, then maybe not.
+
+**Interviewer:** Does your family know about this routine?
+
+**Respondent:** Yes, of course. They know when I usually go out and when I come back.
+
+**Interviewer:** And regarding your medicine, does anyone in your family help you manage it?
+
+**Respondent:** They don't have to give it to me every day. I take it myself. But they know that I take medicine. So, if I forget, sometimes they ask me, "Did you take your medicine?"
+
+**Interviewer:** So they remind you sometimes?
+
+**Respondent:** Yes, sometimes. Especially if they see that I am busy with something.
+
+**Interviewer:** Can you describe a typical morning when it is time to take your medicine?
+
+**Respondent:** Hmm, normally I wake up, wash up, have tea and breakfast. Then I take my medicine around my usual time. The medicine is kept in the usual place, so I take it from there.
+
+**Interviewer:** Do you take it before breakfast or after breakfast?
+
+**Respondent:** Usually around the same part of the morning. I don't always think about the exact time. I just know, okay, this is the time I usually take it.
+
+**Interviewer:** So it has become part of your routine?
+
+**Respondent:** Yes, exactly. It is more like a habit now.
+
+**Interviewer:** Can you walk me through it from the beginning? Suppose it is your normal morning. What do you do?
+
+**Respondent:** Hmm, okay. I get up, do my morning things, then I take the medicine from where I keep it. I take the tablet, have some water, and take it. Then I put the medicine back.
+
+**Interviewer:** That's basically it?
+
+**Respondent:** Yes, that's it. Nothing complicated.
+
+**Interviewer:** How many medicines are currently prescribed for you?
+
+**Respondent:** One medicine.
+
+**Interviewer:** One medicine only?
+
+**Respondent:** Yes, one only.
+
+**Interviewer:** And is it taken once a day?
+
+**Respondent:** Yes.
+
+**Interviewer:** So you don't have different medicines at different times?
+
+**Respondent:** No. Only this one regularly.
+
+---
+
+## Phase 3: Situated Walkthrough & Current Practices
+
+**Interviewer:** Okay. Now, how do you keep track of which medicine to take and when?
+
+**Respondent:** Since I have only one, I just remember. I don't have to check many medicines.
+
+**Interviewer:** Do you physically check the medicine before taking it?
+
+**Respondent:** Sometimes I look at it, yes. But I know the medicine because I have been taking it.
+
+**Interviewer:** Do you want to show me where you normally keep it?
+
+**Respondent:** Yes, it is kept over there. I keep it in the same place.
+
+**Interviewer:** And when you go there, what tells you, "Okay, now I need to take it"?
+
+**Respondent:** The time and my routine. I know that around this time I should take it.
+
+**Interviewer:** So there isn't a written reminder?
+
+**Respondent:** No, no.
+
+**Interviewer:** No phone alarm either?
+
+**Respondent:** No.
+
+**Interviewer:** What about a wall calendar?
+
+**Respondent:** No. I don't use one for medicine.
+
+**Interviewer:** Any pillbox?
+
+**Respondent:** No, because there is only one medicine. I don't feel I need a pillbox.
+
+**Interviewer:** What part of this routine works well for you?
+
+**Respondent:** Hmm, because there is only one medicine, it is easy. I know where it is, I know when I normally take it. So, most of the time there is no problem.
+
+**Interviewer:** And what part is difficult?
+
+**Respondent:** Remembering when something changes. That's the main problem.
+
+**Interviewer:** Can you give me an example?
+
+**Respondent:** If I am doing something outside or somebody comes to the house, or I go somewhere, then I may become busy and forget. My normal routine gets disturbed.
+
+**Interviewer:** If you could fix one part of this routine immediately, what would you change?
+
+**Respondent:** I would make sure I get a reminder at the right time. That would be enough.
+
+**Interviewer:** You wouldn't want somebody to actually give you the medicine?
+
+**Respondent:** No, no. I can take it myself. I just need to remember.
+
+---
+
+## Phase 4: Scenario Probing — Challenges & Barriers
+
+**Interviewer:** Have you ever missed a dose?
+
+**Respondent:** Sometimes I forget, yes.
+
+**Interviewer:** Think about the last time you forgot. What was happening around you?
+
+**Respondent:** Hmm... I don't remember the exact day. But usually when it happens, I am outside or busy with something. Maybe I went out in the morning or was talking with people, and then I didn't remember at the usual time.
+
+**Interviewer:** Was that related to your exercise or community activities sometimes?
+
+**Respondent:** It can be. Sometimes we go out in the morning. We talk, walk, do exercise. If I stay there longer than usual, then the routine changes.
+
+**Interviewer:** And when you remember?
+
+**Respondent:** Then I think, "Oh, I didn't take it." So I take it later.
+
+**Interviewer:** Does anyone notice before you do?
+
+**Respondent:** Sometimes my family notices. They may ask me whether I have taken it.
+
+**Interviewer:** How do you feel when they remind you?
+
+**Respondent:** It's okay. They are family. They are helping me. I don't mind.
+
+**Interviewer:** Are there any other situations when medicine becomes difficult?
+
+**Respondent:** Travelling is one. When I go somewhere, sometimes I forget to carry the medicine.
+
+**Interviewer:** What happens when you're preparing to leave home?
+
+**Respondent:** There are many things. Clothes, other things, getting ready, talking to people. Medicine may not be in my mind at that time.
+
+**Interviewer:** So the problem is not taking it, but remembering to bring it?
+
+**Respondent:** Yes, exactly. At home I know where it is. Outside, I may forget to take it with me.
+
+**Interviewer:** What about when guests come to your house?
+
+**Respondent:** Yes, that can also change things. When people come, we talk, we become busy. Sometimes the normal routine gets pushed aside.
+
+**Interviewer:** And sudden changes in your schedule?
+
+**Respondent:** Same thing. If something unexpected happens, I may forget.
+
+**Interviewer:** If you had to choose between forgetting the medicine at home and forgetting to take it at the right time, which happens more often?
+
+**Respondent:** Forgetting the time is more common, I think. But when travelling, I may forget to carry it.
+
+**Interviewer:** Have you ever used any technology to solve this problem?
+
+**Respondent:** No.
+
+**Interviewer:** Not even a simple alarm?
+
+**Respondent:** No, I don't use it for medicine.
+
+---
+
+## Phase 5: Technology Elicitation & Device Demonstration
+
+**Interviewer:** Do you use any digital technology, like mobile apps, smart alarms, or anything else, to help with your medicine?
+
+**Respondent:** No, not for medicine.
+
+**Interviewer:** What kind of phone do you use?
+
+**Respondent:** We have mobile phones in the family. There are smartphones also. I use a phone mainly for calling.
+
+**Interviewer:** Who normally helps you with the smartphone?
+
+**Respondent:** My family members. The younger people understand these things better.
+
+**Interviewer:** If you need to change something on the phone, what do you do?
+
+**Respondent:** I ask them. They show me.
+
+**Interviewer:** Do you find smartphones difficult?
+
+**Respondent:** Some things are difficult. I can do simple things, but if there are many steps, then I don't always understand.
+
+**Interviewer:** What kind of thing becomes difficult?
+
+**Respondent:** If I have to find an app, then open another thing, then press this and that... sometimes I don't know which one to press.
+
+**Interviewer:** So too many steps are frustrating?
+
+**Respondent:** Yes, yes. I don't like too many steps.
+
+**Interviewer:** What if your family set up a medicine reminder app for you?
+
+**Respondent:** If they set it up properly, I could use it.
+
+**Interviewer:** Would you be comfortable using it yourself afterward?
+
+**Respondent:** If it is simple, yes. If I only have to listen to something or press one thing, then yes.
+
+**Interviewer:** What if the app asked you to confirm that you took your medicine?
+
+**Respondent:** Hmm, one button is okay. But if there are many things, then it may become difficult.
+
+**Interviewer:** Could you imagine using it every day?
+
+**Respondent:** Yes, if it reminds me automatically. I don't want to have to remember to open the app first.
+
+**Interviewer:** That's important. So the reminder should come automatically?
+
+**Respondent:** Yes. Otherwise I may forget to open the app too.
+
+**Interviewer:** Exactly. What would be the easiest kind of reminder for you?
+
+**Respondent:** Voice. The phone should say it.
+
+**Interviewer:** What would you like it to say?
+
+**Respondent:** Something simple. "It is time to take your medicine." Like that.
+
+**Interviewer:** Would you want it to say the medicine name?
+
+**Respondent:** Yes, that can be useful. Then I know which medicine it is.
+
+**Interviewer:** Would you prefer voice over text?
+
+**Respondent:** Yes, voice.
+
+**Interviewer:** Why?
+
+**Respondent:** I don't have to look at the phone. I can just hear it.
+
+**Interviewer:** What if you are outside when the reminder comes?
+
+**Respondent:** Then maybe it should not speak loudly. If other people are around, I don't want everyone hearing my medicine reminder.
+
+**Interviewer:** So perhaps vibration outside and voice at home?
+
+**Respondent:** Yes, that would be good.
+
+**Interviewer:** Would your family need to configure those settings?
+
+**Respondent:** Yes, probably. They can set it once.
+
+**Interviewer:** And then you just use it?
+
+**Respondent:** Yes.
+
+---
+
+## Phase 6: Accessibility, Literacy & Interaction Needs
+
+**Interviewer:** Let's talk about reading. Do you have difficulty reading medicine labels?
+
+**Respondent:** Sometimes, yes. Especially if there is a lot of writing.
+
+**Interviewer:** What about handwritten prescriptions?
+
+**Respondent:** Those are difficult. Very difficult sometimes.
+
+**Interviewer:** What makes them difficult?
+
+**Respondent:** The handwriting. Sometimes I cannot understand what is written. Medicine names are not always easy.
+
+**Interviewer:** What do you normally do when you can't read it?
+
+**Respondent:** We take it to the pharmacy.
+
+**Interviewer:** And they explain it?
+
+**Respondent:** Yes. They understand the prescription and tell us which medicine.
+
+**Interviewer:** Do you use your phone to take a picture of the prescription?
+
+**Respondent:** No, not normally.
+
+**Interviewer:** If there was a technology that could read the prescription for you, would you use it?
+
+**Respondent:** Maybe. It could be useful. But I would still want to check if I am not sure.
+
+**Interviewer:** With the pharmacy?
+
+**Respondent:** Yes, or the doctor.
+
+**Interviewer:** So you wouldn't want to rely completely on the phone?
+
+**Respondent:** No. Medicine is important. If I am not sure, I will ask somebody.
+
+**Interviewer:** What would make a technology easier for you?
+
+**Respondent:** Large writing would help. Clear voice would help more.
+
+**Interviewer:** What about pictures?
+
+**Respondent:** Pictures could help. If I see the medicine and the name, that is easier.
+
+**Interviewer:** What about different colours for different medicines?
+
+**Respondent:** It might help if there are many medicines. But for me, there is only one. So voice is more useful.
+
+**Interviewer:** Would you want the app to speak in English or Bangla?
+
+**Respondent:** Bangla would be easier.
+
+**Interviewer:** Would simple everyday Bangla be better than formal language?
+
+**Respondent:** Yes, simple language. We understand normal speaking better.
+
+**Interviewer:** And if the app gave you too much information?
+
+**Respondent:** Then I might not understand what is important. It should tell me the necessary thing first.
+
+**Interviewer:** So short and clear?
+
+**Respondent:** Yes, exactly.
+
+**Interviewer:** What about the phone screen? Do you prefer larger text?
+
+**Respondent:** Yes, larger text is easier to see.
+
+**Interviewer:** And would you want the screen to have many options?
+
+**Respondent:** No, fewer options. If I see too many things, I may not know what to do.
+
+---
+
+## Phase 7: Care Network & Social Context
+
+**Interviewer:** Now let's talk a little more about your family. Who else helps you with your medicine?
+
+**Respondent:** My family members. They know about my medicine and sometimes remind me.
+
+**Interviewer:** Who would normally remind you if you forgot?
+
+**Respondent:** Whoever is around. It depends on who is at home.
+
+**Interviewer:** So there isn't one specific person responsible?
+
+**Respondent:** No, not really. We help each other.
+
+**Interviewer:** If you were away from home for a day, who would make sure you had your medicine?
+
+**Respondent:** Usually someone from my family would tell me before I leave. They might ask, "Did you take your medicine with you?"
+
+**Interviewer:** Does that happen often?
+
+**Respondent:** Not every time. But sometimes.
+
+**Interviewer:** What if you were unavailable and somebody else had to take over?
+
+**Respondent:** My family already knows what medicine I take. So they would know what to remind me about.
+
+**Interviewer:** Would you want your family to have access to your medicine reminder?
+
+**Respondent:** Yes, if it is only for helping me. That would be okay.
+
+**Interviewer:** Would you want them to be able to change your medicine information?
+
+**Respondent:** Maybe someone I trust, yes. But not everybody.
+
+**Interviewer:** Why?
+
+**Respondent:** Because if someone changes it by mistake, that could be a problem. Medicine information should be correct.
+
+**Interviewer:** So maybe one family member could manage the settings?
+
+**Respondent:** Yes, that would be better.
+
+**Interviewer:** What about your community? You mentioned that you exercise with people nearby. Do they ever help with health-related things?
+
+**Respondent:** Sometimes people talk about health and help each other. If somebody is sick, people ask about them. If someone needs to go somewhere, others may help.
+
+**Interviewer:** Would you want your community members to receive medicine reminders about you?
+
+**Respondent:** No, no. That is more family matter. Community people don't need to know my medicine details.
+
+**Interviewer:** So community support is important, but medicine information should stay more private?
+
+**Respondent:** Yes, exactly.
+
+**Interviewer:** How do you normally communicate with your doctor?
+
+**Respondent:** I call the doctor.
+
+**Interviewer:** Do you keep the doctor's number somewhere?
+
+**Respondent:** We have the number. My family also has it.
+
+**Interviewer:** And what about the pharmacy?
+
+**Respondent:** We go to the pharmacy. If we don't understand the prescription, we show it to them.
+
+**Interviewer:** So you have three kinds of support: family, pharmacy, and doctor?
+
+**Respondent:** Yes, yes. Family helps with daily things. Pharmacy helps when we don't understand the medicine or prescription. Doctor helps when there is a medical problem.
+
+**Interviewer:** That's a good way to put it.
+
+**Respondent:** Hmm, yes. Everybody has their own role.
+
+---
+
+## Phase 8: Closing & Participatory Reflection
+
+**Interviewer:** Is there anything else you would like to share about your daily experience with managing medicine?
+
+**Respondent:** Hmm... not much. I think the main problem is remembering when the routine changes. Normally I can manage it because there is only one medicine.
+
+**Interviewer:** Is there any particular situation you think we haven't talked about?
+
+**Respondent:** Maybe when travelling. That's probably the main one. At home I know where everything is. When I go somewhere, sometimes I forget the medicine.
+
+**Interviewer:** If there was a tool that could remind you before you leave home to take your medicine with you, would that be useful?
+
+**Respondent:** Yes, that would be useful. If it says, "You are going out, don't forget your medicine," that could help.
+
+**Interviewer:** What about reminders during the day?
+
+**Respondent:** Yes, that also helps. Both would be good.
+
+**Interviewer:** If you could design the perfect medicine reminder for yourself, what would it look like?
+
+**Respondent:** I would keep it very simple. At the right time, the phone would speak. It would tell me which medicine to take. Maybe it could remind me again if I don't respond.
+
+**Interviewer:** Would you want it to show information about the medicine too?
+
+**Respondent:** Yes, both reminder and information would be useful.
+
+**Interviewer:** Would you want your family to get an alert if you didn't respond?
+
+**Respondent:** Maybe, yes. But not immediately every time. Sometimes I may be busy or away from the phone. So there should be some time before the family gets worried.
+
+**Interviewer:** That's reasonable. What if the app also allowed your family to check your medicine schedule?
+
+**Respondent:** That would be okay. They already know about my medicine. It could make it easier for them to help.
+
+**Interviewer:** Would you want the app to replace your family's reminders?
+
+**Respondent:** No, no. Family reminders are still good. The app would just help. Sometimes family members are also busy, so the phone can remind me.
+
+**Interviewer:** So technology should support the family rather than replace them?
+
+**Respondent:** Yes. Exactly.
+
+**Interviewer:** And if you had to choose between voice, large text, colour coding, or pictures, which would you choose first?
+
+**Respondent:** Voice first.
+
+**Interviewer:** Second?
+
+**Respondent:** Maybe large writing or pictures. But voice is the main one.
+
+**Interviewer:** What would make you stop using the app?
+
+**Respondent:** If it is too complicated. Or if it gives wrong information. Or if it keeps making unnecessary notifications.
+
+**Interviewer:** So too many notifications could be annoying?
+
+**Respondent:** Yes, yes. If it keeps talking all the time, then I may stop paying attention.
+
+**Interviewer:** What about privacy?
+
+**Respondent:** Privacy is important. I don't mind my family knowing, but I don't need other people to know my medicine information.
+
+**Interviewer:** If the app had an AI assistant that could speak with you, how would you want it to talk?
+
+**Respondent:** Like a normal person. Simple and respectful. Not too much talking.
+
+**Interviewer:** Would you want it to speak like a doctor?
+
+**Respondent:** Not exactly. It can remind me and give simple information. If there is a serious medical issue, I will talk to the doctor.
+
+**Interviewer:** So the AI should know its role?
+
+**Respondent:** Yes, yes. It should help with the small things and tell me when I need to ask the doctor.
+
+**Interviewer:** And how should it speak to older people in your family?
+
+**Respondent:** Respectfully. Don't make us feel like we don't understand anything. Just explain simply.
+
+**Interviewer:** If your family member wanted to help you use the system, what would be important?
+
+**Respondent:** They should be able to set it up easily. Then I can use it without changing things.
+
+**Interviewer:** Would you prefer the setup to be done by your son or another family member?
+
+**Respondent:** Whoever knows these things better. The younger ones usually know more about phones.
+
+**Interviewer:** And once it is set up, you would mostly want to use it yourself?
+
+**Respondent:** Yes. I don't want to depend on them for every small thing.
+
+**Interviewer:** That's fair. So independence is also important?
+
+**Respondent:** Yes. Family helps, but I should also be able to do things myself.
+
+**Interviewer:** If the system could remind you, give medicine information, and allow your family to help when needed, would that be enough?
+
+**Respondent:** Yes, I think so. That would be useful.
+
+**Interviewer:** Anything else you would add?
+
+**Respondent:** No, nothing else. Just keep it simple.
+
+**Interviewer:** Simple, clear, voice-based, and family-supported?
+
+**Respondent:** Yes, yes. That's good.
+
+**Interviewer:** Okay. Thank you very much for your time and for explaining everything.
+
+**Respondent:** You're welcome. No problem.

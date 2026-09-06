@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<defs><marker id="ah" viewBox="0 0 12 12" refX="9.5" refY="6" markerWidth="7.5" markerHeight="7.5" orient="auto-start-reverse"><path d="M 1 1 L 11 6 L 1 11 z" fill="#1b1b1b"/></marker></defs>
+<rect width="1400" height="760" fill="#FCFBF7"/>
+<rect x="118" y="96" width="92" height="158" rx="13" fill="none" stroke="#1b1b1b" stroke-width="3.4"/>
+<rect x="129" y="116" width="70" height="118" rx="5" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<line x1="151.0" y1="107" x2="177.0" y2="107" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round"/>
+<rect x="248" y="108" width="196" height="92" rx="16" fill="#FCFBF7" stroke="#1b1b1b" stroke-width="3.4"/>
+<path d="M 248 158.6 l -22 14 l 22 6 z" fill="#FCFBF7" stroke="#1b1b1b" stroke-width="3.4" stroke-linejoin="round"/>
+<line x1="247" y1="159.52" x2="247" y2="174.24" stroke="#FCFBF7" stroke-width="4"/>
+<text x="346.0" y="146.82" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">Time for your</text>
+<text x="346.0" y="176.82" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">medicine</text>
+<text x="286" y="300" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#1b1b1b" text-anchor="middle" letter-spacing="0.6" style="">THE AGENT REMINDS</text>
+<circle cx="640" cy="128.0" r="34.0" fill="none" stroke="#1b1b1b" stroke-width="3.4"/>
+<circle cx="629.0" cy="124.0" r="3.4" fill="#1b1b1b"/>
+<circle cx="651.0" cy="124.0" r="3.4" fill="#1b1b1b"/>
+<path d="M 628.0 141.0 q 12.0 10.0 24.0 0" fill="none" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M 588.0 236 q 0 -58.0 52.0 -58.0 q 52.0 0 52.0 58.0" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<path d="M 680.0 190.0 q 34.0 6.0 44.0 -16.0" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<rect x="706" y="132" width="54" height="92" rx="13" fill="none" stroke="#1b1b1b" stroke-width="3.4"/>
+<rect x="717" y="152" width="32" height="52" rx="5" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<line x1="720.0" y1="143" x2="746.0" y2="143" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M 717.0 178.0 l 11 12 l 21 -25" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="578" cy="214" r="10" fill="none" stroke="#1b1b1b" stroke-width="2.8"/>
+<path d="M 598 206 q -10 4 -12 6" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<text x="650" y="300" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#1b1b1b" text-anchor="middle" letter-spacing="0.6" style="">THE DOSE IS TAKEN</text>
+<rect x="986" y="118" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1013" y="118" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1040" y="118" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1067" y="118" width="21" height="21" rx="4" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1094" y="118" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1121" y="118" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1148" y="118" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="986" y="145" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1013" y="145" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1040" y="145" width="21" height="21" rx="4" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1067" y="145" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1094" y="145" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1121" y="145" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1148" y="145" width="21" height="21" rx="4" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="986" y="172" width="21" height="21" rx="4" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1013" y="172" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1040" y="172" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1067" y="172" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1094" y="172" width="21" height="21" rx="4" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1121" y="172" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<rect x="1148" y="172" width="21" height="21" rx="4" fill="#1b1b1b" stroke="#1b1b1b" stroke-width="2.2"/>
+<text x="1080" y="240" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">14 day streak</text>
+<text x="1080" y="300" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#1b1b1b" text-anchor="middle" letter-spacing="0.6" style="">STREAK AND HEAT MAP RECORD IT</text>
+<path d="M 464 172 L 556 172" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M 792 172 L 958 172" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M 1200 172 h 80 q 46 0 46 46 v 302 q 0 46 -46 46 h -74" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)"/>
+<circle cx="1148" cy="575.44" r="27.88" fill="none" stroke="#1b1b1b" stroke-width="3.4"/>
+<circle cx="1138.98" cy="572.1600000000001" r="2.788" fill="#1b1b1b"/>
+<circle cx="1157.02" cy="572.1600000000001" r="2.788" fill="#1b1b1b"/>
+<path d="M 1138.16 586.1 q 9.84 8.2 19.68 0" fill="none" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M 1105.36 664 q 0 -47.559999999999995 42.64 -47.559999999999995 q 42.64 0 42.64 47.559999999999995" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<path d="M 1115.2 626.28 q -27.88 4.92 -36.08 -13.12" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<rect x="1058" y="574" width="48" height="82" rx="13" fill="none" stroke="#1b1b1b" stroke-width="3.4"/>
+<rect x="1069" y="594" width="26" height="42" rx="5" fill="none" stroke="#1b1b1b" stroke-width="2.2"/>
+<line x1="1069.0" y1="585" x2="1095.0" y2="585" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round"/>
+<text x="1124" y="726" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#1b1b1b" text-anchor="middle" letter-spacing="0.6" style="">A FAMILY MEMBER SEES IT</text>
+<circle cx="806" cy="575.44" r="27.88" fill="none" stroke="#1b1b1b" stroke-width="3.4"/>
+<circle cx="796.98" cy="572.1600000000001" r="2.788" fill="#1b1b1b"/>
+<circle cx="815.02" cy="572.1600000000001" r="2.788" fill="#1b1b1b"/>
+<path d="M 796.16 586.1 q 9.84 8.2 19.68 0" fill="none" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M 763.36 664 q 0 -47.559999999999995 42.64 -47.559999999999995 q 42.64 0 42.64 47.559999999999995" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<path d="M 838.8 626.28 q 27.88 4.92 36.08 -13.12" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<circle cx="676" cy="575.44" r="27.88" fill="none" stroke="#1b1b1b" stroke-width="3.4"/>
+<circle cx="666.98" cy="572.1600000000001" r="2.788" fill="#1b1b1b"/>
+<circle cx="685.02" cy="572.1600000000001" r="2.788" fill="#1b1b1b"/>
+<path d="M 666.16 586.1 q 9.84 8.2 19.68 0" fill="none" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M 633.36 664 q 0 -47.559999999999995 42.64 -47.559999999999995 q 42.64 0 42.64 47.559999999999995" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round"/>
+<rect x="636" y="420" width="300" height="94" rx="16" fill="#FCFBF7" stroke="#1b1b1b" stroke-width="3.4"/>
+<path d="M 681.0 514 l 6 24 l 26 -24 z" fill="#FCFBF7" stroke="#1b1b1b" stroke-width="3.4" stroke-linejoin="round"/>
+<line x1="684.0" y1="513" x2="707.0" y2="513" stroke="#FCFBF7" stroke-width="4"/>
+<text x="786.0" y="459.82" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="font-style:italic">You have kept it up</text>
+<text x="786.0" y="489.82" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="font-style:italic">all week.</text>
+<text x="741" y="726" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#1b1b1b" text-anchor="middle" letter-spacing="0.6" style="">THEY SAY SOMETHING</text>
+<text x="286" y="546" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#1b1b1b" text-anchor="middle" letter-spacing="0.6" style="">RELATIONAL</text>
+<text x="286" y="580" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#1b1b1b" text-anchor="middle" letter-spacing="0.6" style="">TRIGGER</text>
+<text x="286" y="626" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">an occasion for the family</text>
+<text x="286" y="656" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">to say something, not a</text>
+<text x="286" y="686" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">private score to defend</text>
+<path d="M 1040 636 L 892 636" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M 618 636 L 430 636" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M 178 716 h -62 q -50 0 -50 -50 v -436 q 0 -50 50 -50 h 0" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)"/>
+<text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1b1b1b" text-anchor="middle" transform="translate(42,420) rotate(-90)">the routine returns to the household</text>
+<path d="M 640 314 L 640 336" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)" stroke-dasharray="11 9"/>
+<text x="782" y="330" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">no confirmation</text>
+<rect x="380" y="344" width="440" height="60" rx="16" fill="none" stroke="#1b1b1b" stroke-width="2.8" stroke-dasharray="11 9"/>
+<text x="600" y="382" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">The agent asks before telling the family</text>
+<path d="M 822 380 q 156 14 218 128" fill="none" stroke="#1b1b1b" stroke-width="3.4" stroke-linecap="round" marker-end="url(#ah)" stroke-dasharray="11 9"/>
+<text x="1064" y="452" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#1b1b1b" text-anchor="middle" letter-spacing="0" style="">granted</text>
+</svg>

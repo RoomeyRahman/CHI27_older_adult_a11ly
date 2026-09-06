@@ -1,0 +1,223 @@
+# 1. Shiuly Saha
+
+**Interviewer:** Alright we will now talk a little about your medicine intake. First can you tell me your name and age and a little about yourself
+
+**Respondent:** My name is Shiuly Saha. I am 41 years old. I stay with my family. I have normal work at home and other things. I take one medicine daily mostly.
+
+**Interviewer:** One medicine daily
+
+**Respondent:** Yes one medicine daily. Mostly one only.
+
+**Interviewer:** And do you take it at a fixed time
+
+**Respondent:** Yes mostly same time. I try to take at 12. At night.
+
+**Interviewer:** How do you remember that time
+
+**Respondent:** I put alarm in my mobile. At 12. Otherwise sometimes I forget. So alarm is there.
+
+**Interviewer:** You have to put the alarm yourself every day or it is already there
+
+**Respondent:** No no it is already there. I keep it. Every day it rings.
+
+**Interviewer:** What happens when you hear the alarm
+
+**Respondent:** Then I take the medicine. The medicine is kept nearby. I hear the alarm and then I take it. Sometimes I am busy and I hear it but then I say okay after some time. Then sometimes I forget also.
+
+**Interviewer:** So even with the alarm you can forget
+
+**Respondent:** Yes yes. Alarm helps but if I am doing something then I may not take it immediately. Then after some time I remember. Sometimes I forget fully also.
+
+**Interviewer:** Can you remember the last time you forgot
+
+**Respondent:** Yes sometimes it happens. Maybe I am outside or I am talking to someone. Sometimes I am watching something. The alarm rings and I think I will take it after finishing. Then later I remember.
+
+**Interviewer:** What makes it difficult when you are outside
+
+**Respondent:** When travelling it is difficult. I don't remember the medicine sometimes. At home it is okay because medicine is in one place. When I go somewhere the medicine may be in the bag. Then I forget where I kept it also.
+
+**Interviewer:** So what normally happens when you travel
+
+**Respondent:** I carry it but sometimes I don't take it at the right time. Sometimes I remember late. Sometimes I don't remember at all until I come back. It happened many times.
+
+**Interviewer:** Do you have any written note or pill box
+
+**Respondent:** No. Not really. I just keep the medicine. I know which one it is because only one medicine is there.
+
+**Interviewer:** Do you keep it in one specific place
+
+**Respondent:** Yes near my things. At night I take it from there. When I am at home it is easy because I know the place.
+
+**Interviewer:** Does anybody in your family remind you
+
+**Respondent:** Sometimes my family asks. Like did you take it or not. Mostly I remember with the alarm. Sometimes they ask also.
+
+**Interviewer:** Who usually asks you
+
+**Respondent:** Family only. Sometimes my husband. Sometimes someone else at home asks. They don't ask every day but sometimes they ask.
+
+**Interviewer:** Do you feel they help you remember
+
+**Respondent:** Yes it helps. If somebody asks then I remember. If I already took it then I say yes. If not then I take it.
+
+**Interviewer:** So family reminder is also useful
+
+**Respondent:** Yes yes. Family reminder is useful. Because sometimes mobile alarm is there but I ignore it. If family says take your medicine then I take it.
+
+**Interviewer:** What about when you are at a gathering or with other people
+
+**Respondent:** There also I may forget. When many people are there I am talking and doing things. Then medicine is not in my mind. If I see somebody else taking medicine then I remember my medicine also.
+
+**Interviewer:** Is that something that happens often
+
+**Respondent:** Not very often but yes. If somebody says they have to take medicine then I suddenly remember. It is like seeing them reminds me.
+
+**Interviewer:** What if they are taking a medicine that you have also heard about from other people
+
+**Respondent:** Then I will feel maybe this medicine is okay because many people are using it. But I will not just take it without asking. I may ask what it is and why they take it. Still if many people say it is good then I trust it more.
+
+**Interviewer:** Even if you heard some bad things about that medicine
+
+**Respondent:** Yes maybe. If I hear some bad thing from one person and many people around me say it is okay then I may think maybe the bad thing is not true. But for myself I will ask doctor or pharmacist before taking it. But group opinion does matter.
+
+**Interviewer:** Why do you think group opinion matters
+
+**Respondent:** Because if many people are saying the same thing then maybe they have used it. We talk with people. We ask what they used and what worked. So it gives some confidence. One person saying something I may not trust. Many people saying same thing I listen more.
+
+**Interviewer:** Coming back to your medicine, have you ever taken the wrong medicine or different drug by mistake
+
+**Respondent:** No not really. Because I only take one regularly. Sometimes I get confused with other tablets when there are medicines in the house but mostly no.
+
+**Interviewer:** Have you ever missed a dose while travelling
+
+**Respondent:** Yes yes. That has happened. Sometimes I remember only after the usual time. If I am outside I don't have the medicine with me sometimes.
+
+**Interviewer:** Have you used any technology apart from the alarm
+
+**Respondent:** Not particularly. Only mobile alarm. I don't use medicine apps. I don't use any special thing.
+
+**Interviewer:** Do people in your family use smartphones
+
+**Respondent:** Yes we are familiar with smartphones. Button phones also. Both we know.
+
+**Interviewer:** Who normally sets up things on the phone
+
+**Respondent:** Mostly we can do normal things. Sometimes if there is some new thing then someone in the family helps. But normal phone use is okay.
+
+**Interviewer:** What about reading prescriptions
+
+**Respondent:** No I have problem. Prescription is difficult to read. The writing is not clear to me. So many times I take the prescription to the pharmacy and they give me the medicine.
+
+**Interviewer:** So you depend on the pharmacy
+
+**Respondent:** Yes. Pharmacy person can understand it. We cannot understand properly. So we ask them.
+
+**Interviewer:** Have you ever tried using your phone camera to read it
+
+**Respondent:** No no. We don't use that. Maybe it can be useful. I did not use it before.
+
+**Interviewer:** Would that make things easier
+
+**Respondent:** Yes definitely. If the phone can tell me the medicine name and maybe the time then it can help. It will be easier.
+
+**Interviewer:** What kind of information would you want the phone to show
+
+**Respondent:** Medicine name first. Then when to take. Maybe how many times. Simple things. Not too much information because then it gets confusing.
+
+**Interviewer:** Do you need pictures of the medicine
+
+**Respondent:** Yes maybe picture is good. Then I can know this is the same medicine. Sometimes packet looks similar.
+
+**Interviewer:** Have you ever had a medicine related problem and contacted the doctor
+
+**Respondent:** Yes sometimes. If I have some problem after taking medicine then I contact my doctor. I ask what to do. Sometimes I also ask the pharmacist for small things.
+
+**Interviewer:** Who do you contact first
+
+**Respondent:** If it is about the medicine itself then doctor. If it is just to understand the medicine name or something then pharmacy.
+
+**Interviewer:** Do you keep the doctor's number
+
+**Respondent:** Yes in my phone.
+
+**Interviewer:** Is it easy to call the doctor
+
+**Respondent:** Yes if the number is there. Calling is easy.
+
+**Interviewer:** What part of medicine taking is most difficult for you
+
+**Respondent:** Remembering when I am busy or travelling. At home not much problem. Outside it is difficult.
+
+**Interviewer:** What would make it easier
+
+**Respondent:** Reminder. A strong reminder maybe. Voice is better for me. If a voice says it then I notice it more.
+
+**Interviewer:** Why voice and not text
+
+**Respondent:** Text I may not look at it. There are many notifications. Voice I hear. If someone says take your medicine then I notice.
+
+**Interviewer:** Would you want the reminder to keep repeating if you don't respond
+
+**Respondent:** Yes maybe after some minutes. Because sometimes first time I am busy. Then another reminder. But not every one minute. That will be irritating.
+
+**Interviewer:** Would you want somebody from the family to also get the reminder
+
+**Respondent:** Yes that can be good. Maybe one family member can know if I did not take it. Then they can ask me.
+
+**Interviewer:** Would that make you feel monitored
+
+**Respondent:** No not really if it is family. Family already asks. So it can help.
+
+**Interviewer:** Would you want the app to only remind you or also show information about the medicine
+
+**Respondent:** Both is helpful. Reminder and medicine information. Both.
+
+**Interviewer:** What kind of information
+
+**Respondent:** What medicine it is. When to take. Maybe simple use. Maybe doctor name. Basic only.
+
+**Interviewer:** Voice or text
+
+**Respondent:** Voice notification. I prefer voice.
+
+**Interviewer:** Would you want the app to read the prescription also
+
+**Respondent:** Yes. That would be very useful. If I take a picture and the phone reads it then good.
+
+**Interviewer:** What about large text
+
+**Respondent:** Large text is also good. I can read better. Small text is difficult.
+
+**Interviewer:** What about colors
+
+**Respondent:** Maybe colors can help. Like one color for night medicine. But I don't really need many colors because I have one medicine.
+
+**Interviewer:** What happens if the battery of the phone is dead
+
+**Respondent:** Then alarm won't work. So I need to charge the phone. I usually keep it charged.
+
+**Interviewer:** Any problem with using smartphone apps
+
+**Respondent:** Not much. Normal apps okay. But too many steps is difficult. I don't want to open many things just to see one medicine.
+
+**Interviewer:** So it should be simple
+
+**Respondent:** Yes very simple. Open and see. Or just tell me.
+
+**Interviewer:** Anything else you would want in such an app
+
+**Respondent:** Maybe if I am travelling it should remind me also. Because travel is where I forget. At home I manage okay.
+
+**Interviewer:** So travel reminder is important
+
+**Respondent:** Yes. Very useful. At home I have the alarm and everything is there. Outside things change.
+
+**Interviewer:** Is there anything else you want to share
+
+**Respondent:** No nothing much. Main thing is reminder. Voice reminder. And prescription reading can help. That's all.
+
+**Interviewer:** Okay thank you
+
+**Respondent:** Okay.
+
+---

@@ -1,0 +1,158 @@
+# Phase 2 Follow-Up Interview Transcript: Medication Management
+
+**Participant:** Rahima Begum  
+**Age:** 68  
+**Gender:** Female  
+**Context:** Rural household, Bogra District, Bangladesh
+
+---
+
+## 1. Affiliation Ledger & Negotiating Allegiance
+
+**Interviewer:** "Rahima Chachi, after using the medicine reminder system, how did you feel about who the system was helping?"
+
+**Rahima Begum:** "It was helping me take my medicine on time, baba. But my children also have to help me. They bring the medicine and tell me which one to take. So I think it helps both me and them."
+
+**Interviewer:** "Did you feel the system was clear about what it was doing, or did it feel like it was getting too involved?"
+
+**Rahima Begum:** "No no, it was only reminding me. That is good. I don't want too many things. If it tells me it is time for medicine, that is enough."
+
+**Interviewer:** "Did the reminder stay something only you used, or did your family also become involved?"
+
+**Rahima Begum:** "My son and daughter-in-law still helped. If the alarm rang and I was doing something, my daughter-in-law could also hear it and remind me. So it became a family thing, I suppose."
+
+**Interviewer:** "Would you want the system to work by itself, or would you want your children to be involved?"
+
+**Rahima Begum:** "Children should be involved, baba. The system can ring, but my son brings the medicine. If something changes, they have to tell me. The machine cannot do everything."
+
+---
+
+## 2. Veto Power, Risk, and Silence
+
+**Interviewer:** "If the system told you to take a medicine but your son had told you something different, what would you do?"
+
+**Rahima Begum:** "I would ask my son. I don't know these medicine names properly. I follow what my children tell me. If the alarm says something different, I would not just take it."
+
+**Interviewer:** "What if the system gave a louder or stronger warning because it thought you had missed your medicine?"
+
+**Rahima Begum:** "That is okay. If I missed it, then it should ring again so I know. Loud is better for me because I may not see anything on the phone."
+
+**Interviewer:** "What if you did not respond to the reminder?"
+
+**Rahima Begum:** "Maybe ring again after some time. Sometimes I am cooking or doing some work and I don't hear properly. If I still don't take it, my daughter-in-law can remind me."
+
+**Interviewer:** "Would you want the system to keep ringing until you take the medicine?"
+
+**Rahima Begum:** "No no, not continuously. Then it will become troublesome. Ring once, then again after some time. If still nothing, then my children can check."
+
+**Interviewer:** "How would you know if it was a normal reminder or something serious?"
+
+**Rahima Begum:** "For me, if it rings at the normal morning, noon, or night time, I know it is the medicine. If it keeps ringing because I did not take it, then I understand I forgot. If something else is wrong, my children should tell me."
+
+---
+
+## 3. Care Collectivism & "Checking as Love"
+
+**Interviewer:** "Has the system changed how your family checks on your medicine?"
+
+**Rahima Begum:** "Yes, a little. Before, my daughter-in-law or children had to remember and ask me. Now the ringing reminds me first. But they still ask sometimes, especially if I was busy."
+
+**Interviewer:** "Do you miss your family reminding you manually?"
+
+**Rahima Begum:** "No, baba. It is still nice when they ask. But the alarm helps them also. They don't have to remember everything themselves."
+
+**Interviewer:** "If there was a sudden change in your medicine, would you follow what the system said or discuss it with your family?"
+
+**Rahima Begum:** "I would ask my son. Definitely. If the doctor gives a new medicine, my son or daughter-in-law has to explain it to me. I don't understand the long names on the paper."
+
+**Interviewer:** "So if there was confusion about a prescription, the family would still decide what to do?"
+
+**Rahima Begum:** "Yes yes. I would not decide from the machine. My son gets the medicine from the pharmacy and tells me what it is for."
+
+**Interviewer:** "Has the reminder changed the feeling of being cared for?"
+
+**Rahima Begum:** "It helps, but my children caring for me is still the main thing. The ringing is just helping them remember also."
+
+---
+
+## 4. Gamification as a Relational Trigger
+
+**Interviewer:** "If the system showed a good score or a long streak for taking your medicines properly, would that mean anything to you?"
+
+**Rahima Begum:** "Hmm, I don't really need a score, baba. If I take my medicine properly, that is enough. I don't understand these scores very much."
+
+**Interviewer:** "What if it gave you a simple message saying you were doing well?"
+
+**Rahima Begum:** "That is okay. If it says, yes, medicine taken, then that is good. My children can also be happy that I am taking it properly."
+
+**Interviewer:** "What if one day you missed the medicine and the streak was broken?"
+
+**Rahima Begum:** "I would not want to worry about a score. Sometimes I forget. Then I should be reminded and my children should know. Medicine is more important than the score."
+
+**Interviewer:** "Would you want your score to be private or shared with your family?"
+
+**Rahima Begum:** "If there is a score, my children can see it. They already look after my medicines. But I don't think I need to see many numbers."
+
+---
+
+## 5. Probationary Trust & Retraining
+
+**Interviewer:** "When you first started using the reminder, did you need some time before trusting it?"
+
+**Rahima Begum:** "Yes, baba. At first I was not sure. My son would tell me when the alarm should ring, and then we would see if it rang at the right time. After it did that properly, I became more comfortable."
+
+**Interviewer:** "Did your children check the reminders at the beginning?"
+
+**Rahima Begum:** "Yes. My son helped set it up. He knows these things better than me. My daughter-in-law also checked sometimes."
+
+**Interviewer:** "After using it for some time, did you start depending on the alarm more?"
+
+**Rahima Begum:** "Yes. Before I just kept the times in my head. Sometimes the time would pass when I was busy. Now when it rings, I know, okay, medicine time."
+
+**Interviewer:** "Has it completely replaced your family's reminders?"
+
+**Rahima Begum:** "No no. They still remind me sometimes. The alarm is helping, but my children are still there."
+
+**Interviewer:** "Would you still want the medicine packets and prescription nearby?"
+
+**Rahima Begum:** "Yes. Of course. The prescription and medicine are important. The alarm only tells me the time."
+
+---
+
+## 6. Closing & Plural Principal
+
+**Interviewer:** "After using the system, who do you think it ultimately works for—you, your children, or everyone together?"
+
+**Rahima Begum:** "Everyone together, baba. It helps me remember. It helps my children because they don't have to remember every time. So it is useful for all of us."
+
+**Interviewer:** "Would you be comfortable if the system told your family when you missed a medicine?"
+
+**Rahima Begum:** "Yes. They already look after my medicine. If I forget, I want them to know so they can remind me."
+
+**Interviewer:** "Would you want the system to tell the whole family about every small thing?"
+
+**Rahima Begum:** "No no. That is not needed. If I am just a little late, one more alarm is enough. If I keep missing it, then tell my son or daughter-in-law."
+
+**Interviewer:** "When would it be acceptable for the system to become more involved with the family?"
+
+**Rahima Begum:** "If I miss medicine many times, or if there is some change in the medicine, then my children should know. For normal medicine time, just ring the phone."
+
+**Interviewer:** "Overall, has the system made taking your medicine easier?"
+
+**Rahima Begum:** "Yes, baba. The ringing helps me because I cannot always remember the time. Before, if I was cooking or doing work, I could forget. Now I hear the alarm and I know it is time."
+
+**Interviewer:** "What kind of reminder works best for you?"
+
+**Rahima Begum:** "A loud ringing sound. I don't need a fancy phone or many buttons. I just need to hear it."
+
+**Interviewer:** "Would you want a message on the phone too?"
+
+**Rahima Begum:** "I cannot read the small writing properly, baba. So sound is better for me. If my children can set it up, that is enough."
+
+**Interviewer:** "Anything else you would like to add?"
+
+**Rahima Begum:** "No, baba. Keep it simple. My children bring the medicines and tell me what to take. The alarm should just remind me at the right time. That is very helpful."
+
+**Interviewer:** "Thank you, Rahima Chachi."
+
+**Rahima Begum:** "You are welcome, baba. May Allah bless you."
