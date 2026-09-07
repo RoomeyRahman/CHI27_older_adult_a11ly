@@ -9,3 +9,9 @@ services:
   latex:
     volumes:
       - /Users/roomeyrahman/Documents/Research/CHI27/Older-Adult-A11ly/output/latex:/workdir
+  pandoc:
+    image: pandoc/core:latest
+    volumes:
+      - /Users/roomeyrahman/Documents/Research/CHI27/Older-Adult-A11ly/output/latex:/workdir
+    working_dir: /workdir
+    entrypoint: ["sh", "-c"]

@@ -35,9 +35,9 @@ independent analyses never mix.
    ```
 
 4. **Verify skill discovery.** Start Codex in the repository root and ask it to list its available
-   skills. Eleven should appear: `plan-section`, `draft`, `revise`, `polish`, `grill`,
+   skills. Twelve should appear: `plan-section`, `draft`, `revise`, `polish`, `grill`,
    `thematic-analysis`, `latex`, `chi-evidence-matrix`, `chi-literature-scout`,
-   `chi-litreview-writer`, `chi-introduction`.
+   `chi-litreview-writer`, `chi-introduction`, `chi-research-question`.
 
 ## Editing skills
 

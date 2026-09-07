@@ -24,7 +24,8 @@ CHECK=0
 [ "${1:-}" = "--check" ] && { CHECK=1; DST="$(mktemp -d)/skills"; }
 
 SKILL_NAMES=(plan-section draft revise polish grill thematic-analysis latex \
-             chi-evidence-matrix chi-literature-scout chi-litreview-writer chi-introduction)
+             chi-evidence-matrix chi-literature-scout chi-litreview-writer chi-introduction \
+             chi-research-question)
 
 [ -d "$SRC" ] || { echo "[ERROR] no source skills at $SRC" >&2; exit 1; }
 
@@ -54,7 +55,7 @@ if [ -f "$TA" ]; then
     s{\| Claude Code \| \*\*A1\*\* \| `/output/codes/A1/` \|\n\| Any other analysing agent \| \*\*A2\*\*, \*\*A3\*\*, \.\.\. \| `/output/codes/A2/`, \.\.\. \|}
      {| Codex | **A2** | `/output/codes/A2/` |\n| Claude Code | **A1** | `/output/codes/A1/` |\n| Any further analysing agent | **A3**, **A4**, ... | `/output/codes/A3/`, ... |}g;
     s{when you are Claude Code}{when you are Codex}g;
-    s{`/output/codes/A1/study1/OA03/02-coding-table\.md`}{`/output/codes/A2/study1/OA03/02-coding-table.md`}g;
+    s{`/output/codes/A1/phase1/P03/02-coding-table\.md`}{`/output/codes/A2/phase1/P03/02-coding-table.md`}g;
     s{`/output/codes/A1/FINAL-CODEBOOK\.md`}{`/output/codes/A2/FINAL-CODEBOOK.md`}g;
     s{Reading A2.s themes before writing A1.s}{Reading A1\x27s themes before writing A2\x27s}g;
     s{An explicit `--slot A2` in}{An explicit `--slot A1` in}g;

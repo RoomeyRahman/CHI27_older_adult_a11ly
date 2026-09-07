@@ -1,0 +1,140 @@
+# Phase 1: themes (older adults and caregivers)
+
+Four themes from the 24 Phase 1 transcripts (16 older adults, 8 caregivers), built from the two role master codebooks and read as one story: the collective practice, where it breaks, why existing aids fail, and what both sides expect of an agent placed in the family. Each theme has a definition and ends with the consequence that leads onward; each sub-theme has a paragraph on what it means and names both roles where both carry it. Codes and quotes are in `final-codebook.md`; the narrative is in `analysis/plans/result/story_phase_1.md`.
+
+## 1. Medication as Distributed Family Work
+
+**Definition.** In these households medication is not an individual task. The older adult keeps the act of taking and recognises medicine by strip, shelf, and meal; an adult child or spouse holds the names, the prescription, the buying, and the doctor's words; whoever is present reminds, and a family question settles whether a dose was taken. The caregiver's role was never decided, checking is received as care with surveillance as its limit, peers advise and the doctor alone decides. A few older adults manage entirely alone.
+
+### Retained Autonomy in Taking, Delegated Knowledge to Kin
+
+Both sides describe the same division. The older adult swallows the tablet and nobody hands it to them; the caregiver holds the names, the paper, the shop, and what the doctor said. Older adults call this relief, caregivers call it help, and neither calls it dependence.
+
+### Recognition by Strip, Place, and Meal Rather Than Name
+
+Recognition replaces reading. Medicines are known by colour and foil, kept in one fixed spot, and tied to tea, breakfast, or dinner. Caregivers confirm they run the household on habit and one shelf, with the paper prescription as the fallback, and nothing written down.
+
+### Shared Reminding by Presence and the Family Question as Verification
+
+Reminding belongs to whoever is near: a spouse, a daughter-in-law, a child who calls, a friend taking his own tablet. Because older adults are often unsure whether they took a dose, and sometimes say yes when they have not, the family's question is the verification the household relies on. The rule on both sides is to ask and never to double.
+
+### An Unplanned and Unreviewed Caregiver Role
+
+Nobody chose who would manage the medicines. The role grew from need and settled on whoever was competent and present, usually a working adult child. Because it was never decided it is never reviewed, and the caregiver has no one to hand it to.
+
+### Checking as Care, Surveillance as Its Limit
+
+A son's or daughter's question is received as safety and help, with an admitted edge of irritation when it is constant. The line is drawn at being watched every dose: tell me about a miss, do not watch me all the time. Caregivers, for their part, refuse to control adults.
+
+### Peer Experience as Advice, the Doctor as Authority
+
+Tea shops, walks, and gatherings are full of medicine talk, and agreement among many makes a medicine feel tested. Older adults take the name to their child or doctor and never change alone; caregivers admit the pull on themselves and block it for their parents. The doctor is the only gate on change.
+
+### Counter-Case: Independent Self-Managers
+
+Three men and one woman manage many medicines from memory, the written prescription, or their own notes, miss doses only when stock runs out, and say they need no tool. They bound the family system and the reminder's reach.
+
+**Consequence.** This arrangement runs on presence and habit. It has no record, no way to verify from afar, and no fallback when the people who hold the knowledge are not in the room. Where it breaks is the next theme.
+
+## 2. Breakdown at a Distance: Where Presence-Based Care Fails
+
+**Definition.** The family system fails exactly when nobody is in the room. Dose time is lost to housework, guests, travel, and field work; when the caregiver is at work, on a trip, or asleep there is no way to know, and a phone yes may be false. When everyone is busy at once a missed dose can end in hospital. Medicine runs out because nobody counts and the older adult cannot go to buy. The older adult resents depending on family for small things; the caregiver carries a standing worry and calls again.
+
+### Time Slipping Outside the Home Routine
+
+Nobody describes forgetting as a failing mind. At home, with the strip in view and the family around, the routine carries itself; away from it, in talk, travel, or work without fixed hours, the time goes. Caregivers describe the same lapse from outside: she knows, but the time goes away.
+
+### Unverifiable from Afar: No Way to Know and a False Yes
+
+When the caregiver is at work or in another city there is no way to know whether a dose was taken. A phone call returns a yes that is sometimes wrong, so the caregiver either trusts blindly or calls again. Older adults confirm that when family is busy or away nobody asks and they are alone with the routine.
+
+### Collective Lapse with Clinical Consequences
+
+The shared check fails on the day nobody is free. A diabetic mother missed her dose at a wedding and fell ill; a father missed a morning dose during a working morning and went to hospital; an older adult describes the whole family being too busy to remember. After such events caregivers stop trusting memory alone.
+
+### Supply Failure and Dependence on Others to Buy
+
+Nobody counts tablets; a strip finishes and the market is far. The older adult waits for a child or a neighbour going to market, and doses are missed not from forgetting but from supply. For self-managers this is the only failure they report.
+
+### Standing Worry and Unwanted Dependence
+
+The cost of the arrangement is paid twice. The caregiver carries a standing pressure to check while working and keeps thinking, did she take it or not. The older adult, for their part, does not want to depend on family for every small thing. Both sides want the checking to continue and the worry to stop.
+
+**Consequence.** The households reached for tools to cover these gaps. Every tool at hand failed in a specific way, which is the next theme.
+
+## 3. The Misfit of Existing Aids
+
+**Definition.** Every tool these families have met fails in a specific way. The pill box created a chore for the caregiver and was abandoned. Phone alarms ring without saying which medicine, were set by children and switched off by parents, or were never set at all. No medicine app was tried, because parents manage calls and Facebook but not menus, and some keep button phones. Prescriptions are handwriting only the pharmacist reads; a new brand changes the packet; a harmful medicine was found only when the parent fell ill. One household finds alarms and paper enough.
+
+### Aids That Add Work
+
+The pill box had to be filled every time and was forgotten, so the medicine went back to the strips. An aid that adds a task for the caregiver competes with the work it was meant to remove and loses; and it does nothing for a parent who is out.
+
+### Meaningless Alarms and Unusable Apps
+
+An alarm set by a child rings without naming the medicine; the parent does not know why it rings and switches it off, or hears it, defers, and forgets. Smartphones serve calls and videos; an app with many steps leaves them pressing the wrong thing, and button-phone users know only the green and red keys. Nobody set up anything for medicine because nobody knew how or thought of it.
+
+### Unreadable Prescriptions and Unrecognised Packets
+
+Handwritten prescriptions defeat parents and often the caregiver, so the pharmacy reads them; small print needs glasses that are not always at hand. A different brand changes the packet and the older adult no longer knows if it is theirs; a changed prescription leaves old and new strips side by side. The document that defines the regimen is one the household cannot consult.
+
+### Harm Noticed Too Late
+
+Two caregivers describe a medicine that was harming a parent and was found only by symptoms, then changed by a second doctor. Nothing in the household's tools warned them; the check nobody performed is the one they later ask technology to make.
+
+### Counter-Case: Existing Aids Sufficient
+
+One caregiver finds phone alarms plus the paper prescription enough and asks for nothing more; she marks where the problem ends.
+
+**Consequence.** Each misfit names what a helper would have to do instead: speak and name the medicine, show the tablet, ring again and reach outside, read the paper, warn on change and stock, and be set up by someone else without adding work. Those expectations are the last theme.
+
+## 4. Design Expectations for a Family-Placed Agent
+
+**Definition.** Older adults and caregivers describe the same tool from two sides. It speaks the medicine's name and timing in plain Bangla, privately in company, and shows a picture of the tablet with sun and moon and a clear mark on anything new. It rings again after a delay, reminds before leaving, and works outside and offline. It tells one family member only after a real miss and a wait, never treats a missed press as a missed dose, and never checks in secret. The caregiver sets it up once; the older adult presses one button. It reads the prescription and warns on stock and mismatch only if correct, gives information and never decides, and helps the family without replacing or controlling it. Trust is borrowed from the child who set it and the peers who use it.
+
+### Spoken Bangla Reminders Naming the Medicine
+
+Voice is preferred almost unanimously. Older adults do not look at the phone and cannot read small print; caregivers know their parents will not notice text. The voice must say which medicine, when, and before or after food, in plain and respectful Bangla, and not loudly when others are around.
+
+### Visual Recognition Cues and Marked Medication Changes
+
+Because older adults know medicine by sight, a picture of the tablet lets them match it and simple pictures mark the time of day. Both sides insist a changed medicine be shown plainly as new and the old one as stopped, so the old strip is not taken by mistake.
+
+### Repeated, Pre-Departure, and Location-Independent Reminders
+
+One sound, then another after some time because the older adult may be outside or busy, but not every minute. A nudge before leaving home to carry the medicine. And the reminder must work in the field, at a relative's house, and without internet, which is exactly where the routine fails and where the caregiver cannot reach.
+
+### Exception-Only Escalation to One Family Member
+
+Both sides describe the same sequence: the older adult first, a repeat after time, then one family member, and only when a dose is really missed. Ten notifications a day would be ignored; a message from the system should mean something. For a caregiver at work or housework, a call cuts through where a notification does not.
+
+### The Record Subordinate to the Act
+
+Older adults foresee taking the tablet and forgetting the phone, and ask that a missed press not be read as a missed dose. Caregivers agree from their side: give some time, maybe she is taking it and the system does not know. The dose is the fact; the confirmation is secondary; a person asks when in doubt.
+
+### Single-Button Interaction with Kin-Managed Setup
+
+The older adult's whole interaction is to hear and to press one large button; typing, passwords, and screens are refused. The caregiver sets up medicines and times once, changes them when the doctor does, and refuses daily entry. Simplicity is the condition of use for both generations.
+
+### Prescription Reading, Mismatch Warnings, and Stock Alerts Conditional on Accuracy
+
+Both sides want the phone to do the reading and cross-checking the household cannot: read the handwritten prescription from a photo, warn when something entered is not on it, and tell the buyer before the strip finishes. Every request carries the same condition: it must be correct, medicine is not a guess, and the family will still check.
+
+### Information Without Decision, Family Without Replacement
+
+The tool may show what the doctor prescribed and what it is for, and tell them when to ask the doctor; it must not suggest or change medicine. Checking must be visible to the older adult, never secret. It should help the family, not replace or control it: less calling is not less care, and technology can help but family is family.
+
+### Trust Borrowed from Kin and Peers
+
+Trust in the tool is not earned by the tool. If the son entered the medicines the older adult knows it was checked; an unknown app is not trusted. If their walking group or fellow farmers use it and say it works, they will ask a child to install it.
+
+**Consequence.** These expectations fix the prototype's terms and the questions Phase 2 must answer: whether an agent that speaks to the older adult and reports to one caregiver on exception is admitted into the family's division of work, whom it comes to serve, and whether the record stays below the act.
+
+## Where the two roles agree and where they differ
+
+They agree on the division of work, on the family question as verification, on the doctor as the only authority for change, on voice, on exception-only escalation to one person, on the record staying below the act, on setup by kin, and on help without control. They differ in emphasis: older adults draw the line at being watched, caregivers at being made to do more work; older adults want the phone where family is absent, caregivers want to know from afar; older adults borrow trust from the child who set it, caregivers earn it by checking the entries against the prescription. Caregivers alone raise the pill box, adverse reactions found late, generic names, and the wish that a warning explain itself; older adults alone raise privacy in company, pictures for non-readers, and the self-manager's refusal. No household pairing is filed, so these are agreements between roles across the corpus, not within families.
+
+## Variation and counter-cases
+
+Independent self-managers (P11, P15, P16, P17) want no tool and bound themes 1 and 4. C06 finds alarms and paper sufficient and bounds theme 3. P12 is the one daily alarm user; her deferral is the strongest evidence in theme 3. Non-readers on button phones (P08, P09, and C08's household) set the floor for voice and pictures. C05, C06, and C07 show homes where the caregiver is the reminder's user.
+

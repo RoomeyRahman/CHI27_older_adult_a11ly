@@ -1,7 +1,7 @@
 # Theme construction: the five passes
 
-Read before Phase 2. Governs how codes become sub-themes and sub-themes become themes, in every unit: each of
-each transcript in a study, then that study's master synthesis, then the cross-study affiliation synthesis.
+Read before Phase 2. Governs how codes become sub-themes and sub-themes become themes, in every unit: each
+transcript in a phase, then that phase's master synthesis, then the cross-phase affiliation synthesis.
 
 **The rule: candidate codes, then a trim, then sub-themes, then themes, then review, in that order, each written
 to disk before the next begins. All five run in one invocation; an exit check is a checkpoint you report and
@@ -26,19 +26,20 @@ one. Three specific failures:
 
 ### Pass A, candidate codes, exhaustive
 
-**Input:** the transcript (or, at master level, the eight per-transcript registers and matrices).
+**Input:** the transcript (or, at master level, that phase's per-transcript registers and matrices, 24 in Phase 1
+and 25 in Phase 2).
 
 **Deliberately over-inclusive.** Nothing is filtered for importance. If you catch yourself skipping a passage
 because it will not survive, code it and let Pass B kill it on the record.
 
 **Volume.** Roughly **40 to 80 candidate codes per interview transcript**, scaling with length. At master level,
-pooling the eight retained sets gives **200 to 240 entries** before reconciliation. Calibration figures, not
+pooling a phase's retained sets gives roughly **600 to 750 entries** before reconciliation. Calibration figures, not
 quotas: far fewer means stretches went uncoded or the coding unit was too coarse.
 
 **Output:** `02-coding-table.md` for a transcript unit; `master/01-code-synthesis.md` for the master unit, both
 inside your agent slot (SKILL.md Section 0.0). Codes
 are two to five words, definitions carry the nuance, extracts are participant-only and verbatim, and evidence
-tags travel with the code: `[elicited]`, `[demonstration-grounded]`, `[in-vivo]`, `[tr]`.
+tags travel with the code: `[lived]`, `[elicited]`, `[hypothetical]`, `[believed-capability]`, `[in-vivo]`, `[tr]`.
 
 **Must not:** name a sub-theme or theme anywhere, including in an analytic note; drop, merge, or rank codes for
 importance; quote the interviewer; write a code longer than six words.
@@ -57,15 +58,16 @@ counts below can carry. If the honest number is 23 or 33, take it and say why; d
 
 1. **Reconcile before judging.** Merge synonyms, collapse near-duplicates that share a mechanism, split codes
    doing two jobs even though that raises the count. Most reduction happens here. Record the count after this
-   step. At master level this is merging across transcripts: the same code under different names in OA02 and
-   CG06 is one master code, and both original names are kept.
+   step. At master level this is merging across transcripts: the same code under different names in P02 and
+   C06 is one master code, and both original names are kept.
 2. **Score each survivor** on five criteria, one word each in the register, a clause where contested:
-   - **RQ traction** against the three RQs in `/output/Introduction.md`.
+   - **RQ traction** against the three RQs in `/proposal/proposal.md` Section 4.
    - **Mechanism**: does it name something that happens, a condition, an action, a relation, rather than a topic
      that came up?
    - **Corroboration**: within a transcript, where else it appears; at master level, how many participants carry
-     it, plus any `/supplementary/` artifact.
-   - **Evidence grade**: volunteered, `[elicited]`, or `[demonstration-grounded]`.
+     it. No logs exist and no pairing map is filed, so corroboration is other participants, never a log or an
+     inferred household pair.
+   - **Evidence grade**: volunteered `[lived]`, `[elicited]`, or `[hypothetical]`.
    - **Conceptual load**: what the analysis specifically loses without it. This is the criterion that saves the
      rare load-bearing code with thin corroboration, and it must be argued in writing.
 3. **Retain and park.** Park, in order of confidence: instrument codes that only ever answer a direct question;
@@ -74,8 +76,8 @@ counts below can carry. If the honest number is 23 or 33, take it and say why; d
    heading**, even thin ones. Trimming is where an inconvenient case would quietly disappear, and the tensions in
    CLAUDE.md Section 9.3 are protected here specifically. At master level, check participant balance: if the
    retained set comes mostly from two articulate participants, the trim followed fluency rather than
-   significance. For Study 1, check the balance between older adults and caregivers as well: a retained set drawn
-   mostly from caregivers is an analysis of how the work is accounted for, not of how it is done.
+   significance. Check the balance between older adults and caregivers as well: a retained set drawn mostly from
+   caregivers is an analysis of how the work is accounted for, not of how it is done.
 4. **Write the trim rationale** at the head of the file: counts at each step, which criteria did most of the
    parking, the two or three hardest calls with both sides stated.
 
@@ -165,8 +167,8 @@ Writes no new analysis. Tries to break what exists. For a transcript unit this i
    themes exist is a filter applied before the evidence was understood.
 6. **At master level only:** check instrument capture (do the themes reproduce the four interview modules or the
    three RQs?), participant concentration per theme (more than about a third from one participant gets flagged),
-   and evidence grades per theme (an all-elicited or all-demonstration-grounded theme is a theme about the
-   instrument). Then run the quality checklist and the anonymization scan.
+   and evidence grades per theme (an all-elicited or all-hypothetical theme is a theme about the instrument or
+   about a described design, and is labeled as such). Then run the quality checklist and the anonymization scan.
 
 If Pass E forces no change at all, say whether you believe the analysis is that clean or the pass was not
 adversarial enough.
@@ -176,7 +178,7 @@ adversarial enough.
 Every file opens with:
 
 ```
-<!-- slot: A1 | unit: study1/OA03 | pass: A complete | B complete | C pending -->
+<!-- slot: A1 | unit: phase1/P03 | pass: A complete | B complete | C pending -->
 ```
 
 Update as each pass finishes. Never write a downstream column while its upstream pass is pending. On a resumed
@@ -195,9 +197,8 @@ later.
 
 ## 5. Units and scope
 
-The units run in order: each transcript of a study in full, then that study's master synthesis over their
-results, then the next study, then the cross-study affiliation synthesis over the study masters. A scoped run on
+The units run in order: each transcript of a phase in full, then that phase's master synthesis over their
+results, then the next phase, then the cross-phase affiliation synthesis over the phase masters. A scoped run on
 one participant runs all five passes for that transcript only, then stops, marks the master and final files
-stale, and says what needs rerunning. A master synthesis cannot be simulated from one transcript, studies are
-never merged into one pooled corpus, and the Study 3 non-interview streams are never folded into its interview
-synthesis.
+stale, and says what needs rerunning. A master synthesis cannot be simulated from one transcript, and phases are
+never merged into one pooled corpus.

@@ -46,7 +46,8 @@ Practical rules:
   `[no code, off-topic]` rather than silently skipping it. The gap should be visible in the audit trail.
 - **Code the third party.** When a participant describes what a son, a daughter, or a pharmacist did, that is
   network data and it gets its own code. The analytic note names whose account it is, because we have the older
-  adult's version of the son's action and not the son's, except in Study 3 where both may exist.
+  adult's version of the son's action and not the son's; the household pairing map is unfiled, so the two
+  accounts are set against each other only where a transcript itself states the relation.
 - **Silence and non-use are moves, not gaps.** An ignored reminder, a declined offer of help, or a refusal to
   answer is coded as participation, never marked as missing data. See SKILL.md Section 0.6.
 
@@ -62,7 +63,7 @@ correct the captions by hand. The participant answers: "Yes, but not the second 
   correction`. That codes the instrument.
 - Wrong: coding only `Says yes`. That records the turn and loses the content.
 - Right: two codes, `Daughter sets the schedule` and `Takes doses unprompted`, with the answer as the extract:
-  `"Yes, but not the second part." (D6, 12:40)`, and an analytic note recording that the content of "the second
+  `"Yes, but not the second part." (P06, Phase 2, L40)`, and an analytic note recording that the content of "the second
   part" is recovered from the preceding question, paraphrased.
 
 Three rules follow:
@@ -111,8 +112,8 @@ The rows below are shape examples; the wording is illustrative and none of it is
 Each of those short codes still needs its definition to be usable, which is the point: the definition column is
 where "what counts as a framing pause" gets settled, and the codebook is where a reader goes to find out.
 
-Keep the vocabulary consistent across transcripts. `Pharmacist as interpreter` in OA04 and `Asks the chemist` in
-OA09 are one code with two names, and Pass B will treat them as two. Reuse the existing name or rename both.
+Keep the vocabulary consistent across transcripts. `Pharmacist as interpreter` in P04 and `Asks the chemist` in
+P09 are one code with two names, and Pass B will treat them as two. Reuse the existing name or rename both.
 
 Mark in-vivo codes with quotation marks, and reserve them for short participant phrases doing conceptual work you
 could not phrase better yourself. The brevity rule applies to them too: `"a blessing"`, not a quoted sentence. Because most of this corpus is translated, mark a translated in-vivo code `[tr]`:
@@ -147,7 +148,7 @@ the result in the analytic-note column. Two or three sentences each.
 The examples in this section are shape illustrations. The extracts are invented to show the reasoning; never
 carry one into an artifact.
 
-> OA04: "I discuss with [my eldest son] during any difficulties." (OA04)
+> P04: "I discuss with [my eldest son] during any difficulties." (P04, Phase 1, L51)
 
 - Codes: `Standing right to consult` (semantic); `Consultation as position, not help` (latent).
 - **Why**: The verb is habitual and the difficulty is plural and abstract, so the arrangement precedes any
@@ -158,13 +159,13 @@ carry one into an artifact.
   mechanism is that a standing consultative right converts an episode of not knowing into an ordinary use of the
   household's structure, which protects dignity in a way an ad hoc request would not. Look for the same mechanism
   wherever a participant names one specific family member rather than "my children".
-- **Decision**: Promote to a candidate cluster with codes about who is entitled to be told; search the study for
+- **Decision**: Promote to a candidate cluster with codes about who is entitled to be told; search the phase for
   other habitual-tense constructions naming one member, which mark the same move.
 
 **Worked example 2, the unweighed acceptance**
 
 > A participant describes her daughter setting up the app, choosing the reminder times, and later commenting on
-> her score, and says she was glad of it. (D6)
+> her score, and says she was glad of it. (P06, Phase 2)
 
 - Codes: `Daughter as onboarder` (semantic); `Setup handed over without qualification` (latent);
   `Score as contact` (latent).
@@ -174,8 +175,8 @@ carry one into an artifact.
   daughter configured; she takes. That separation is what makes the handover cost nothing to her standing, and it
   appears here in a participant who is not making an argument about autonomy.
 - **Decision**: Hold as a boundary case against any sub-theme about monitoring as intrusion, code the separation
-  itself, and look for it elsewhere. Tag `[study2-scope-limited]`, because a single Study 2 account cannot carry
-  an allegiance claim.
+  itself, and look for it elsewhere. Tag `[lived]`, because setup and the score comment concern deployed
+  features, and `[single-instance]` until another participant carries it.
 
 **Worked example 3, the interviewer's vocabulary**
 
@@ -214,9 +215,11 @@ carry one into an artifact.
 - **The stated ideal versus the actual practice**: when a participant describes a settled routine and then
   describes a dose missed at a wedding, do not code the routine as a plan and the lapse as a failure. Code the
   gap. Ask what the ideal account is for, and to whom it is addressed.
-- **Contradiction across a pair**: in Study 3, an older adult and a caregiver narrating the same episode
-  differently is the study's central kind of evidence. Code both accounts on their own terms, code the divergence
-  as its own code, and never resolve it toward the more plausible version.
+- **Contradiction across a pair**: an older adult and a caregiver narrating the same episode differently is the
+  study's central kind of evidence, but the pairing map is unfiled, so a pair exists only where a transcript
+  states the relation. Where it does, code both accounts on their own terms, code the divergence as its own code,
+  and never resolve it toward the more plausible version. Where it does not, record the two accounts separately
+  and do not call them a pair.
 - **The articulate participant**: some speakers are notably more fluent about the household's arrangements than
   the rest, and caregivers are systematically more fluent about them than older adults, because accounting for
   the work is part of the work. Guard against letting them supply the analysis. Check at Phase 4 whether a theme
@@ -227,12 +230,13 @@ carry one into an artifact.
 - **Translation seams**: where the English reads oddly literal, or where a term seems to shift meaning across a
   transcript, flag it in the analytic note rather than reading the oddity as significant word choice.
 - **Hypothetical judgment**: where a participant evaluates a scenario they were asked to imagine rather than one
-  they have lived, tag the code `[hypothetical]`. This is not a defect; the affiliation probes and the co-design
-  vignettes are built on it. But a preference about a described escalation and a report of one that happened are
-  different evidence and must not be merged in a theme without comment.
-- **Believed capability**: where a participant describes the agent doing something, check `/system/`. If the
-  capability is not implemented and logged, tag `[believed-capability]` and code what they believed, never what
-  the agent did.
+  they have lived, tag the code `[hypothetical]`. This is not a defect; the Phase 2 probes about the four unbuilt
+  mechanisms (the weakening veto, silence as participation, probationary mode, shared family scores) are built on
+  it, and several are worded as if the mechanism had been experienced. A preference about a described escalation
+  and a report of one that happened are different evidence and must not be merged in a theme without comment.
+- **Believed capability**: where a participant describes the agent doing something, check the deployed list in
+  `/output/Method.md` Prototype Development. If the capability was not deployed, tag `[believed-capability]` and
+  code what they believed, never what the agent did.
 - **Silence and refusal**: "I would rather not say" is codeable, and so is a participant who answers a question
   about their own medication with an account of a relative's. In a household interview, what an older adult
   declines to say while a caregiver is present is data about the household, not a gap.
@@ -241,8 +245,8 @@ carry one into an artifact.
   necessary to the argument or whether a paraphrase suffices, and note the choice in the reflexivity statement.
   Anonymization is not sufficient protection on its own for a small population; consider whether the combination
   of details in an extract makes a person identifiable within their own household or neighbourhood, and
-  generalize identifying specifics if it does. In Study 3 the risk runs inside the family: a caregiver may
-  recognise the older adult's account of an episode they both lived.
+  generalize identifying specifics if it does. In a household study the risk runs inside the family: a caregiver
+  may recognise the older adult's account of an episode they both lived.
 - **Talk about a retired study phase**: where a participant refers to an earlier, deficit-framed protocol, that is
   historical protocol talk. Code it as an interactional artifact if it shapes the turn, never as data about the
   present study.
@@ -270,8 +274,8 @@ in `01-memo.md` with a line on what changed. This is what separates a coded tran
 
 **Across transcripts.** Do not go back and rewrite the first transcript after coding the sixth. Each transcript
 unit is finished on its own terms, and reconciling vocabulary between transcripts is the master synthesis's job
-(SKILL.md Section 6), where `Pharmacist as interpreter` in OA04 and `Asks the chemist` in OA09 become one master
+(SKILL.md Section 6), where `Pharmacist as interpreter` in P04 and `Asks the chemist` in P09 become one master
 code with both original names recorded. Rewriting earlier units instead would erase the record of how each
-account actually read. The same holds across studies: Study 1's codes are not renamed to match Study 2's, because
-the difference in vocabulary between the human baseline and the agent-directed case is what the cross-study
+account actually read. The same holds across phases: Phase 1's codes are not renamed to match Phase 2's, because
+the difference in vocabulary between the human baseline and the agent-directed case is what the cross-phase
 synthesis reads.

@@ -23,12 +23,12 @@ the audit trail that produced them.
 
 ## 1. Analytic approach
 Reflexive TA; critical realist position; inductive weighting with a deductive second pass using the
-affiliation codebook; dataset description, one line per study, with exact counts from AGENTS.md
-Section 3 and their filed sources; single-analyst rationale; translation from Bangla; conventions for
-quotes, participant ids, and anonymization. State the analytic sequence plainly: each transcript
-analysed in full on its own, then a master synthesis per study, then the cross-study affiliation
-synthesis. State the coding trajectory in one sentence per study with real numbers: candidates per
-transcript, retained per transcript, master retained, sub-themes, themes.
+affiliation practices as a lens; dataset description, one line per phase, with exact counts from
+AGENTS.md Section 3 and their filed sources; single-analyst rationale; translation from Bangla;
+conventions for quotes, participant ids, and anonymization. State the analytic sequence plainly: each
+transcript analysed in full on its own, then a master synthesis per phase, then the cross-phase
+affiliation synthesis. State the coding trajectory in one sentence per phase with real numbers:
+candidates per transcript, retained per transcript, master retained, sub-themes, themes.
 
 ## 2. Reflexivity and positionality
 Pointer to 07-reflexivity-statement.md plus a two-paragraph summary that a reader of this file alone
@@ -38,13 +38,13 @@ can use.
 Thematic map, plus one paragraph stating the overall argument the themes make together. A reader
 should be able to stop here and know what the analysis claims.
 
-## 4. Theme 1, [Name] (from the study master synthesis, one block of themes per study)
+## 4. Theme 1, [Name] (from the phase master synthesis, one block of themes per phase)
    Definition paragraph
    Sub-theme 1.1, analysis with extracts
    Sub-theme 1.2, analysis with extracts
    Boundary and variation, including the disconfirming cases
    So what: theoretical and design significance
-   RQ served, contribution served, corroboration status
+   RQ served, contribution served, corroboration status, and for Phase 2 the lived or hypothetical status
 
 ## 5. Theme 2, [Name]
    ...
@@ -52,18 +52,17 @@ should be able to stop here and know what the analysis claims.
 ## 6. Relations between themes
 Where they reinforce, where they pull against each other, what the tension means.
 
-## 6a. Cross-study affiliation synthesis
+## 6a. Cross-phase affiliation synthesis
 For each of the five practices, assignment, contestation, gifting, revocation, and ceremony, what it
-looked like among humans in Study 1 and what it looked like directed at the agent in Studies 2 and 3,
-and what changed in the move. A practice with no agent-directed instance is reported as such. This
-section is the analytic payoff and the paper's conceptual contribution is built from it. Studies are
-never merged into one pooled corpus; where two disagree, both readings stand and the disagreement is
-stated.
+looked like among humans in Phase 1 and what it looked like directed at the agent in Phase 2, and what
+changed in the move. A practice with no agent-directed instance is reported as such. This section is
+the analytic payoff and the paper's conceptual contribution is built from it. Phases are never merged
+into one pooled corpus; where the two disagree, both readings stand and the disagreement is stated.
 
 ## 7. Discussion
 Connection to the theory ledger and to prior HCI literature where the fit is real; what this extends,
-complicates, or contradicts; implications for AI speech editing design; limitations and boundary
-conditions.
+complicates, or contradicts; implications for the agent's design; limitations stated as scoping decisions
+(AGENTS.md Section 6.2) and boundary conditions.
 
 ## Appendix A, pointer to the per-transcript registers in <slot>/P*/03-code-register.md
 ## Appendix B, pointer to the development logs in <slot>/*/04-themes.md and <slot>/master/02-themes.md
@@ -91,9 +90,9 @@ contrast, escalation, or range, and you must state it.
 ## 3. Quotes
 
 - Short extracts, under about 25 words, run inline in quotation marks. Longer ones are block quotes with the
-  participant id and, where the transcript carries one, the timestamp.
-- Attribute every extract: `(OA07, 26:33)`, or `(D2)` where no timestamp exists, or `(H3-CG1)` for a Study 3
-  household member.
+  participant id, phase, and transcript line.
+- Attribute every extract by id, phase, and line: `(P07, Phase 1, L112)`, `(C02, Phase 2, L41)`. Transcripts
+  carry no timestamps.
 - **Never quote the interviewer or facilitator.** Where an answer needs its question to be readable, put the
   recovered content inside the participant's quote in square brackets, or state it in your own sentence
   introducing the extract. A two-speaker dialogue block is not an extract.
@@ -106,13 +105,14 @@ contrast, escalation, or range, and you must state it.
   A kinship term or honorific is left as the filed translation gives it, because the relation is the analysis.
 - Where an extract is elicited by a leading question, or is a participant reasoning about a hypothetical
   scenario rather than reporting practice, say so in the sentence that introduces it. Do not bury it in a
-  footnote and do not omit it. The same holds for an extract describing an agent capability `/system/` does not
-  log: report it as what the participant believed.
-- Balance across participants, and in Study 1 across older adults and caregivers. If one participant supplies
-  more than roughly a third of the extracts in a theme, revisit the theme. If every extract in a Study 1 theme
-  comes from one side of the network, that is a finding about whose account it is, and it is stated.
-- For a Study 3 paired episode, quote both sides or say why only one is quoted. A one-sided quotation of a
-  paired episode reads as agreement that was never established.
+  footnote and do not omit it. The same holds for an extract describing an agent capability the deployed list
+  in `/output/Method.md` does not include: report it as what the participant believed. A Phase 2 extract about
+  one of the four unbuilt mechanisms is introduced as reasoning about a described design, never as use.
+- Balance across participants, and in each phase across older adults and caregivers. If one participant supplies
+  more than roughly a third of the extracts in a theme, revisit the theme. If every extract in a theme comes
+  from one side of the network, that is a finding about whose account it is, and it is stated.
+- No household pairing map is filed, so no extract is presented as one side of a paired episode. Where an older
+  adult's and a caregiver's accounts are set beside each other, say that the relation is not established.
 - Consent-based exclusions govern: material a participant or their family asked to be excluded is unusable even
   anonymized. Check before quoting.
 - Re-read every extract for identifiability within a small community, not only for names. A combination of
@@ -150,7 +150,7 @@ it is real; never carry it into an artifact.
 > Participants who described consulting a family member did not present it as help sought. They described a
 > standing arrangement, which puts the relationship first and the difficulty second:
 >
-> > "I discuss with [my eldest son] during any difficulties." (OA04)
+> > "I discuss with [my eldest son] during any difficulties." (P04, Phase 1, L51)
 >
 > The tense is the interesting part. The verb is habitual rather than episodic, and the difficulty is named in
 > the plural and in the abstract, so the arrangement precedes any particular problem. What the son supplies is

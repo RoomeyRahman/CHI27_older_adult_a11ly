@@ -14,7 +14,7 @@ COMPOSE_FILE := /Users/roomeyrahman/Documents/configurations/docker-compose.yml
 OVERRIDE_FILE := docker-compose.override.yml
 COMPOSE     := docker compose -f $(COMPOSE_FILE) -f $(OVERRIDE_FILE)
 
-.PHONY: pull pdf pdf-proposal bibtex sync-bib clean cleanall shell logs
+.PHONY: pull pdf pdf-proposal bibtex sync-bib clean cleanall shell logs md
 
 # Copy the canonical bibliography into the LaTeX project whenever it's
 # missing or stale; main.tex's \bibliography{reference} needs it in place.
@@ -37,6 +37,9 @@ pdf: sync-bib
 
 pdf-proposal: sync-bib
 	$(COMPOSE) run --rm latex bash -c "cd $(PROJECT) && (latexmk -pdf -f -interaction=nonstopmode $(PROPOSAL).tex || true) && test -s $(PROPOSAL).pdf && echo 'PDF built: $(PROJECT)/$(PROPOSAL).pdf'"
+
+md: sync-bib
+	$(COMPOSE) run --rm pandoc "cd $(PROJECT) && pandoc -s $(MAIN).tex -o $(MAIN).md"
 
 # Manual pdflatex -> bibtex -> pdflatex -> pdflatex cycle, if latexmk ever misbehaves.
 bibtex: sync-bib

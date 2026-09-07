@@ -1,0 +1,104 @@
+# Phase 2, Caregiver: themes
+
+Each theme has a definition, a boundary or counter-case, the RQ and contribution it serves, and a consequence that leads to the next theme. Each sub-theme has a paragraph on what it means. Evidence grades (lived, elicited, hypothetical, believed-capability) are in the code definitions of the codebook in this folder.
+
+## 1. The Agent as the Caregiver's Own Tool
+
+**Definition.** Caregivers experienced the agent as theirs as much as their parent's: it reminded them where they administer, it was clear about whom it served, and it became shared when the parent began listening or knew where an unconfirmed dose would go. They place themselves inside the normal circle, want one person told, and make the older adult's agreement the condition.
+
+### Mostly It Reminded Me: The Caregiver as First Principal
+
+Where the caregiver gives the medicine, the agent's first user is the caregiver, who welcomes being checked as confidence.
+
+### Legibility of Whom the Agent Serves
+
+Knowing what information was shared and that the agent fit the caregiver's involvement made it acceptable.
+
+### Shared When They Started Listening
+
+The plan to set it up and leave it was overtaken when the mother listened for the reminder and the father knew where silence would go.
+
+### My Place in the Circle, One Person, When She Agrees
+
+Normal reminders stay with the parent and the managing caregiver; escalation to one person, on a real miss, with the older adult's agreement; for them first, then both.
+
+**Boundary or counter-case.** Older adults of the caregiver-as-principal households (C05, C06) are absent as speakers. No pairing filed.
+
+**RQ and contribution.** RQ2 assignment; C1, C2 (direction)
+
+**Consequence.** Being the agent's first user changed the caregiver's work more than the parent's, the next theme.
+
+## 2. Less Pressure, Not Less Responsibility
+
+**Definition.** The agent removed the caregiver's clock-watching, calling from work, and intrusive worry; the first reminder moved to the agent and the family asked less. Caregivers insist the work dropped and the care did not: asking after a notification is still care, and the streak became the family's, sometimes the caregiver's own.
+
+### Relieved of the Clock, the Calling, and the Intrusive Thought
+
+Caregivers no longer watch the clock or think suddenly whether a parent took a dose; the agent is their presence in absence.
+
+### The First Reminder Moved, the Asking Remained Care
+
+Kin ask less and still ask; asking after a notification is care; the agent helps without taking the family out.
+
+### The Streak as Ours, Sometimes Mine
+
+Family noticed and praised the streak; a break means check why; sharing for encouragement within the family.
+
+### Habituation Seen From Outside
+
+The caregiver observes the parent now expecting the reminder.
+
+**Boundary or counter-case.** C07 and C08 mostly conditional; the streak as the caregiver's own achievement is C06 only.
+
+**RQ and contribution.** RQ2 gifting and care; RQ3 outcomes; C1, C3
+
+**Consequence.** Relief depended on trusting what the agent reported, which turned no confirmation into a signal the caregiver must read, the next theme.
+
+## 3. Signals, Not Verdicts: Reading Silence and the Record
+
+**Definition.** No confirmation became a signal to check earlier rather than something to assume either way; the caregiver's own forgotten press counts too. A false alarm that worries everyone is the failure they fear, mismatches with the prescription were checked rather than accepted, and a warning must say why.
+
+### No Confirmation as a Signal to Check
+
+Silence is now something to check, earlier than before; not a verdict of a missed dose.
+
+### A False Alarm as the Failure
+
+Telling family of a miss that did not happen worries everyone for nothing.
+
+### Mismatches Checked and Warnings That Explain
+
+Information that did not match the prescription was verified; a loud alert without a reason is not enough.
+
+**Boundary or counter-case.** Lived contestation of the agent's information is C03 only.
+
+**RQ and contribution.** RQ2 contestation; RQ3 visibility
+
+**Consequence.** Reading the record well required keeping it correct and current, the last theme.
+
+## 4. Keeping the Agent Below the Doctor and Current With the Prescription
+
+**Definition.** Caregivers keep the agent below the doctor and the prescription: it may report a difference, a person confirms; a wrong or stale reminder must be stoppable; a change must be updated and told to everyone with its reason. They trusted it after their own check and through the parent's response, want a voice with the name for the parent, and will stop if it becomes another job.
+
+### The Doctor Decides, a Person Confirms
+
+The agent reminds what was decided and may report a change; confirmation and decision stay with people.
+
+### Stale Until Updated; Tell Everyone What Changed
+
+The old reminder must not continue after a change; the household must be told what changed and why.
+
+### Trust After My Own Check, and Through Her Response
+
+Caregivers compared entries with the prescription, kept the paper nearby, and trusted once the parent was responding.
+
+### A Voice With the Name, and Not Another Job
+
+Voice and the medicine name for parents who do not read or look; the family knows the situation; wrong information or maintenance burden ends use.
+
+**Boundary or counter-case.** Conditions are hypothetical in the main; the stale-schedule episodes are the older adults' (P10, P11).
+
+**RQ and contribution.** RQ3 roles, revocability, ceremony; C3
+
+**Consequence.** This closes the caregivers' account: the agent's knowledge and loyalty sit with the caregiver who enters and checks it; its voice goes to the parent; its authority stops at the doctor.
+

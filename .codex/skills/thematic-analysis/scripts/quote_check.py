@@ -6,6 +6,9 @@ theme rather than read from the data, or a quote silently tidied for readability
 
 Usage:  python3 .codex/skills/thematic-analysis/scripts/quote_check.py [repo_root] [slot]
 
+Attributions must carry the phase, because P01 exists in both Phase 1 and Phase 2:
+  "extract" (P01, Phase 1)      "extract" (C03, Phase 2, L57)
+
 `slot` (A1, A2, ...) restricts the scan to /output/codes/<slot>/, which is what an agent sharing the
 repository with another agent's analysis should use. Omit it to scan everything under /output/codes/.
 
@@ -26,17 +29,18 @@ import unicodedata
 ROOT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else ".")
 SLOT = sys.argv[2].upper() if len(sys.argv) > 2 else ""
 OUT = os.path.join(ROOT, "output", "codes", SLOT) if SLOT else os.path.join(ROOT, "output", "codes")
-# One directory per study. A transcript file is named for the participant id it carries, so
-# supplementary/formative/OA03.md is participant OA03 and supplementary/household/H2-CG1.md is H2-CG1.
-STUDY_DIRS = [
-    os.path.join(ROOT, "supplementary", "formative"),    # Study 1
-    os.path.join(ROOT, "supplementary", "deployment"),   # Study 2
-    os.path.join(ROOT, "supplementary", "household"),    # Study 3
-]
+# One directory per phase of the executed study (AGENTS.md Section 3). A transcript file is named for
+# the participant id it carries: Supplementary/Interviews/phase-1/Participants/P03.md is P03 in Phase 1,
+# Supplementary/Interviews/phase-2/Caregiver/C02.md is C02 in Phase 2. The same id recurs in both phases,
+# so every attribution must name the phase: (P03, Phase 1) or (C02, Phase 2, L41).
+STUDY_DIRS = {
+    "1": os.path.join(ROOT, "Supplementary", "Interviews", "phase-1"),
+    "2": os.path.join(ROOT, "Supplementary", "Interviews", "phase-2"),
+}
 
-# OA01..OA17 older adults and CG01..CG09 caregivers in Study 1; D1..D6 in Study 2;
-# H1-OA, H1-CG1 and so on in Study 3.
-PID = r"OA\d+|CG\d+|D\d+|H\d+(?:-(?:OA|CG\d*))?"
+# P01..P17 older adults and C01..C08 caregivers, in both phases.
+PID = r"P\d+|C\d+"
+PHASE = re.compile(r"phase\s*([12])", re.IGNORECASE)
 
 MIN_FRAGMENT = 12
 
@@ -52,9 +56,9 @@ def normalise(text):
 
 
 def load_sources():
-    """Map participant id -> normalised transcript text, across every study directory."""
+    """Map (phase, participant id) -> normalised transcript text."""
     src = {}
-    for study_dir in STUDY_DIRS:
+    for phase, study_dir in STUDY_DIRS.items():
         if not os.path.isdir(study_dir):
             continue
         for dirpath, _dirs, files in os.walk(study_dir):
@@ -63,14 +67,14 @@ def load_sources():
                 if not m:
                     continue
                 with open(os.path.join(dirpath, name), encoding="utf-8", errors="replace") as fh:
-                    src[m.group(1).upper()] = normalise(fh.read())
+                    src[(phase, m.group(1).upper())] = normalise(fh.read())
     return src
 
 
-# "extract text" (OA03, 04:44)   |   "extract text" (D5)   |   "extract text" (H2-CG1)
-QUOTED = re.compile(r'"([^"\n]{10,})"[^()\n]{0,80}?\(\s*(' + PID + r')\s*[^)]*\)', re.IGNORECASE)
-# > block quote line ... (OA03, 14:04)
-BLOCKQ = re.compile(r'^>+\s*"?(.+?)"?\s*\(\s*(' + PID + r')\s*[^)]*\)\s*$', re.MULTILINE | re.IGNORECASE)
+# "extract text" (P03, Phase 1)   |   "extract text" (C02, Phase 2, L41)
+QUOTED = re.compile(r'"([^"\n]{10,})"[^()"\n]{0,80}?\(\s*(' + PID + r')\s*([^)]*)\)', re.IGNORECASE)
+# > block quote line ... (P03, Phase 1)
+BLOCKQ = re.compile(r'^>+\s*"?(.+?)"?\s*\(\s*(' + PID + r')\s*([^)]*)\)\s*$', re.MULTILINE | re.IGNORECASE)
 
 
 def fragments(extract):
@@ -90,7 +94,7 @@ def main():
         return 2
     sources = load_sources()
     if not sources:
-        print("MISSING: no transcripts found under %s" % ", ".join(STUDY_DIRS))
+        print("MISSING: no transcripts found under %s" % ", ".join(STUDY_DIRS.values()))
         return 2
 
     checked = skipped = 0
@@ -106,11 +110,16 @@ def main():
             for line_no, raw in enumerate(text.splitlines(), 1):
                 for pattern in (QUOTED, BLOCKQ):
                     for m in pattern.finditer(raw):
-                        extract, pid = m.group(1), m.group(2).upper()
-                        key = pid
+                        extract, pid, tail = m.group(1), m.group(2).upper(), m.group(3)
+                        pm = PHASE.search(tail or "")
+                        if not pm:
+                            failures.append((path, line_no, pid, extract,
+                                             "attribution names no phase; write (%s, Phase 1) or (%s, Phase 2)" % (pid, pid)))
+                            continue
+                        key = (pm.group(1), pid)
                         if key not in sources:
                             failures.append((path, line_no, pid, extract,
-                                             "no source transcript for %s" % pid))
+                                             "no source transcript for %s in Phase %s" % (pid, pm.group(1))))
                             continue
                         frags = fragments(extract)
                         if not frags:

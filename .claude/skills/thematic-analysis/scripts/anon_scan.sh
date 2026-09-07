@@ -14,7 +14,7 @@
 set -uo pipefail
 ROOT="${1:-$(pwd)}"
 SLOT="$(printf '%s' "${2:-}" | tr '[:lower:]' '[:upper:]')"
-SRC="$ROOT/supplementary"
+SRC="$ROOT/Supplementary/Interviews"
 if [ -n "$SLOT" ]; then OUT="$ROOT/output/codes/$SLOT"; else OUT="$ROOT/output/codes"; fi
 
 [ -d "$SRC" ] || { echo "MISSING: $SRC"; exit 2; }
@@ -57,6 +57,7 @@ Honestly However Imagine Initially Maybe Nothing Obviously Personally Possibly
 Previously Probably Rather Really Recently Someone Something Suppose Sure Therefore
 Though Today Together Usually Whether Yeah Yesterday
 Who Whom Whose Why Who's Nobody Anyone Everybody Neither Either
+Voice Taking Phone Simple Name Three Second Different Uncle Tell Without Did Walk Coming Finally Meaning Perfect Please Under Suppose Let Apa Chachi Amma Baba Ma Auntie Respondent Woman Person Has
 STOP
 
 # 1. Candidate names from the transcripts, taken from name-bearing positions only:
@@ -105,7 +106,7 @@ if [ -s "$HITS" ]; then
   echo "---"
   cat "$HITS"
   echo "---"
-  echo "Replace each with its participant id (OA01..OA17, CG01..CG09, D1..D6, H1-OA, H1-CG1),"
+  echo "Replace each with its participant id (P01..P17 older adults, C01..C08 caregivers, phase stated),"
   echo "[Interviewer], [Facilitator], or a"
   echo "bracketed generic ([a psychiatrist], [a university]), then re-run."
   exit 1

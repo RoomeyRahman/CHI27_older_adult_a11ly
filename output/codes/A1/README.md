@@ -1,0 +1,5 @@
+# Slot A1: Claude Code's reflexive thematic analysis
+
+Produced by Claude Code (slot A1, resolved from the environment by `slot.sh`); no other agent's slot was read or written. The two deliverables are `FINAL-CODEBOOK.md` (generated from the three master matrices, never hand-edited) and `FINAL-REPORT.md` (the narrative). Folders: `phase1/<id>/` and `phase2/<id>/` hold the five working files per transcript (memo, coding table, register, themes, matrix) for P01 to P17 and C01 to C08; `phase1/master/` and `phase2/master/` hold each phase's synthesis; `cross-phase/` holds the affiliation synthesis over the two masters. The corpus is filed as two phases of one study, so the skill's Study 1, 2, 3 folder names were replaced by `phase1/`, `phase2/`, `cross-phase/`, and the retired `[study2-scope-limited]` tag is not used.
+
+State: complete for the corpus as filed on 2026-09-06 (24 Phase 1 units, 25 Phase 2 units, two masters, cross-phase, both FINAL files); `quote_check.py`, `table_check.py`, and `anon_scan.sh` results are in the run report. Nothing is stale. Last run: 2026-09-06.

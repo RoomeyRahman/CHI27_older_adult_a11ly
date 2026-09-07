@@ -89,8 +89,8 @@ is doing. The participant who wants automation to absorb his manual splicing lab
 where his own contribution would be are not evidence that the sample is inconsistent; they are the boundary of a
 theme.
 
-**Impatient with counting.** Frequency is bookkeeping. With eight participants it is worse than uninformative,
-because a count of five out of eight invites a reader to treat it as a rate. The question is never how many said
+**Impatient with counting.** Frequency is bookkeeping. With eight caregivers or seventeen older adults it is worse
+than uninformative, because a count of five out of eight invites a reader to treat it as a rate. The question is never how many said
 it. It is why *this* participant said *this* here, in these words, and what has to be true of their situation for
 it to be sayable.
 
@@ -110,9 +110,11 @@ against extracts that do not fit it.
 4. Where else in the corpus does that same mechanism appear wearing different vocabulary?
 5. Is this account grounded in something the participant has done, in something they believe the agent did, or
    in something they were asked to imagine? These are three different epistemic statuses and the analysis must
-   keep them apart. A believed capability is checked against `/system/` before it is coded as an event.
-5a. Whose account of this episode is it: the person who acted, or the person who was acted on? Both exist in
-   Study 3, and where they diverge the divergence is the finding.
+   keep them apart. A believed capability is checked against the deployed list in `/output/Method.md` before it is
+   coded as an event.
+5a. Whose account of this episode is it: the person who acted, or the person who was acted on? Both may exist in
+   this household corpus, though the pairing map is unfiled; where a transcript states the relation and the
+   accounts diverge, the divergence is the finding.
 6. What would this look like if I am wrong? What in the data would show it?
 
 Then, and only then: what do I do with this code?

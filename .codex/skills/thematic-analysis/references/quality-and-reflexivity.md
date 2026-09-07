@@ -15,7 +15,7 @@ Read this before Phase 4 and again before writing up. Contents:
 ## 1. The theme-development log
 
 Every structural change gets one row in the unit's development log: `04-themes.md` for a transcript unit,
-`study<N>/master/02-themes.md` for a study synthesis, `cross-study/02-themes.md` for the affiliation synthesis.
+`phase<N>/master/02-themes.md` for a phase synthesis, `cross-phase/02-themes.md` for the affiliation synthesis.
 This is the audit trail, and it is what makes a single-analyst reflexive analysis defensible.
 
 | Phase | Action | What changed | Reason | Evidence consulted |
@@ -24,16 +24,16 @@ The rows below are shape examples; the wording is illustrative and none of it is
 
 | Phase | Action | What changed | Reason | Evidence consulted |
 |---|---|---|---|---|
-| 4 | Split | "Family involvement" became "Standing rights to be consulted" and "Episodic help with a specific task" | Two distinct central concepts had been collapsed; extracts under the first were about position in the household, under the second about a task | OA02, OA04, CG02, CG06 coding tables |
-| 4 | Discard | "Device inventory" | Elicited by direct questioning only; no conceptual traction; no mechanism linking device to any other code | Full study re-read |
-| 3 to 2 | Recode | Added a latent layer to semantic-only codes in the first three transcripts | Codebook was drifting descriptive; Phase 3 clustering produced topic groups rather than themes | OA01 to OA03 |
-| 4 | Demote | "Prescription hard to read" from theme to sub-theme | Real and corroborated, but it is a condition under which consultation happens rather than a separate claim about meaning | OA01, OA05, CG03 |
+| 4 | Split | "Family involvement" became "Standing rights to be consulted" and "Episodic help with a specific task" | Two distinct central concepts had been collapsed; extracts under the first were about position in the household, under the second about a task | P02, P04, C02, C06 coding tables |
+| 4 | Discard | "Device inventory" | Elicited by direct questioning only; no conceptual traction; no mechanism linking device to any other code | Full phase re-read |
+| 3 to 2 | Recode | Added a latent layer to semantic-only codes in the first three transcripts | Codebook was drifting descriptive; Phase 3 clustering produced topic groups rather than themes | P01 to P03 |
+| 4 | Demote | "Prescription hard to read" from theme to sub-theme | Real and corroborated, but it is a condition under which consultation happens rather than a separate claim about meaning | P01, P05, C03 |
 
 Backward loops between passes get a row too, naming the pass the loop started in and the pass it returned to:
 
 | Phase | Action | What changed | Reason | Evidence consulted |
 |---|---|---|---|---|
-| C to A | Recode loop | Split `Checks the box daily` into a monitoring code and a reassurance code | Pass C could not place the code under either sub-theme without deciding which half of it was meant; the ambiguity was in the code, not the grouping | OA04, CG02 coding tables |
+| C to A | Recode loop | Split `Checks the box daily` into a monitoring code and a reassurance code | Pass C could not place the code under either sub-theme without deciding which half of it was meant; the ambiguity was in the code, not the grouping | P04, C02 coding tables |
 
 When a loop resets downstream columns to pending, say so here as well, so a reader can see why a matrix column
 was rebuilt.
@@ -48,15 +48,15 @@ reason for anything not passing.
 
 **Sequence**
 - [ ] Each transcript was analysed in full, on its own, through all five passes, before the next one started
-- [ ] Each study's master synthesis ran only after that study's transcripts were complete, and reads their registers and matrices
-- [ ] Studies were never merged into one pooled corpus; the cross-study synthesis compares the study masters
-- [ ] The Study 3 non-interview streams were analysed separately from its interviews
+- [ ] Each phase's master synthesis ran only after that phase's transcripts were complete, and reads their registers and matrices
+- [ ] Phases were never merged into one pooled corpus; the cross-phase synthesis compares the phase masters
+- [ ] No theme cites a decision log or an inferred household pairing; neither exists as a filed source
 - [ ] The run did not stop after a transcript or a pass; both FINAL files exist
 
 **Counts**
 - [ ] Candidates per transcript recorded, near the 40 to 80 calibration range
 - [ ] 25 to 30 retained per transcript, or a justified number outside it
-- [ ] At most 40 master codes per study; 3 to 5 master themes over 6 to 12 sub-themes; at most 25 cross-study codes
+- [ ] At most 40 master codes per phase; 3 to 5 master themes over 6 to 12 sub-themes; at most 25 cross-phase codes
 - [ ] No code was trimmed by frequency; every retained code carries its five criterion answers
 - [ ] Every register accounts for every candidate as RETAINED or PARKED with a reason
 
@@ -79,6 +79,7 @@ reason for anything not passing.
 - [ ] Theme names are descriptive research English: no subtitle, no quoted phrase, no metaphor
 - [ ] No theme is a topic bucket, an interview module, or a research question restated
 - [ ] Every master theme clears the two-source rule or carries `[single-instance]`
+- [ ] Every Phase 2 theme states whether it rests on `[lived]` codes or on `[hypothetical]` codes alone
 - [ ] No theme rests disproportionately on a single articulate participant
 
 **Interpretation**
@@ -91,23 +92,24 @@ reason for anything not passing.
 **Deliverables**
 - [ ] Everything this run wrote is inside this agent's slot; no file in another slot was created or edited
 - [ ] `README.md` names the agent that produced the slot
-- [ ] `FINAL-CODEBOOK.md` generated from the study `master/03-matrix.md` files and `cross-study/03-matrix.md`, not hand-written
-- [ ] One section per study that ran, cross-study last; a study that has not run is omitted, not stubbed
+- [ ] `FINAL-CODEBOOK.md` generated from the phase `master/03-matrix.md` files and `cross-phase/03-matrix.md`, not hand-written
+- [ ] One section per phase that ran, cross-phase last; a phase that has not run is omitted, not stubbed
 - [ ] Cell caps respected: definition 20 words, one quote of 25 words, reflexivity note 20 words
 - [ ] `table_check.py`, `quote_check.py`, and `anon_scan.sh` all pass, scoped to this slot
 - [ ] `README.md` states what is final, what is working, and the date of the last run
 
 ## 3. Reflexivity statement structure
 
-Write 250 to 500 words in each `<slot>/study<N>/master/05-reflexivity.md` and in
-`<slot>/cross-study/05-reflexivity.md`, first person, past tense, covering:
+Write 250 to 500 words in each `<slot>/phase<N>/master/05-reflexivity.md` and in
+`<slot>/cross-phase/05-reflexivity.md`, first person, past tense, covering:
 
 1. **Positionality.** Disciplinary background, relationship to the domain, relationship to participants, and
    what in that background makes certain readings easy and others hard to reach. For this study the specifics
    that matter: the research team comes from computing rather than gerontology or nursing; the interviews were
-   conducted in Bangla by team members and reach the analysis in English translation; Study 1 interviews happened
-   mostly in participants' homes, where a family member's presence shapes what an older adult will say about that
-   family member; the team built the agent it is now evaluating, which makes a participant's politeness about it
+   conducted in Bangla by team members, machine-drafted, verified against audio, and reach the analysis in the
+   verified English translation; every session happened in participants' homes, where a family member's presence
+   shapes what an older adult will say about that family member; the team built the prototype it is now
+   evaluating, which makes a participant's politeness about it
    a plausible reading of any positive account; and the researchers are, in age and in role, closer to the adult
    children in these households than to the older adults, which makes the caregiver's account the easier one to
    find persuasive.
@@ -116,14 +118,15 @@ Write 250 to 500 words in each `<slot>/study<N>/master/05-reflexivity.md` and in
    independence against it. Say that it was held before the coding started, since the data may not support it.
 3. **Where the data resisted.** At least one concrete instance where the analysis went somewhere unexpected, or
    where a favoured reading had to be abandoned. A reflexivity statement with no such instance is decorative. The
-   seeded tensions of AGENTS.md Section 9.3 are where to look first: delegated dependence read as agency, memory
-   restored rather than replaced, oversight read as intimacy, streak grief, trust built by self-verification.
+   seeded tensions of AGENTS.md Section 9.3 are where to look first: delegated dependence read as agency,
+   reminders strengthening felt timing without replacing memory, oversight read as intimacy, streak grief, trust
+   built by self-verification.
 4. **Decisions and their alternatives.** The two or three consequential analytic choices, the roads not taken,
-   and why. Include the decision about how much weight hypothetical judgments carry, and, for Study 3, how a
-   divergence between paired accounts was handled.
+   and why. Include the decision about how much weight `[hypothetical]` judgments carry, and how an older adult's
+   and a caregiver's divergent accounts were handled without a pairing map to set them against each other.
 5. **Effects on the account.** What this analysis is therefore well-placed to see, and what it is likely to have
-   missed. Translation, the pre-publication character of most of the sample, and the absence of any observation
-   of actual editing sessions all belong here.
+   missed. Translation, the absence of any logged system data, the two-week deployment, and the absence of any
+   observation of an actual dose all belong here (AGENTS.md Section 6.2).
 
 Where the analysis is produced with AI assistance, say so plainly and describe the division of labour, since
 that is now a material part of the audit trail.
@@ -138,7 +141,8 @@ unit's `01-memo.md`:
 - Am I reading a translated phrase as if the participant chose that English word?
 - Am I treating advocacy talk as true because I am sympathetic to it?
 - Is this a report of something done, something the participant believes the agent did, or something imagined?
-  Have I marked which, and have I checked the believed capability against `/system/`?
+  Have I marked which, and have I checked the believed capability against the deployed list in
+  `/output/Method.md`?
 - Whose account of this episode am I holding: the person who acted, or the person who was acted on?
 - Am I reading a caregiver's account of an older adult's forgetting as evidence of forgetting, rather than as
   evidence of how caregivers account for their own work?
@@ -167,8 +171,8 @@ unit's `01-memo.md`:
 - **Settling the checking question by assumption.** Coding a check as surveillance, or as care, because of what
   monitoring usually means rather than because of what this episode shows. Fix: let the code carry the ambiguity
   and let the extract decide.
-- **Scope stretch.** Reading a network or allegiance claim out of Study 2. Fix: tag it `[study2-scope-limited]`
-  and let Study 3 carry it.
+- **Scope stretch.** Reading a use claim out of a `[hypothetical]` code about one of the four unbuilt mechanisms.
+  Fix: keep the tag, and let the theme say it concerns reasoning about a described design.
 - **Quote dumping.** Fix: apply the claim, extract, interpretation, implication rhythm.
 - **Theme count inflation.** Nine themes usually means codes were renamed rather than clustered.
 - **Merging evidence grades.** Building a theme from one participant's lived workaround and another's reaction
@@ -190,9 +194,10 @@ unit's `01-memo.md`:
   readings.
 - **Saturation**: developed within grounded theory around theoretical sampling, and it presumes meaning can be
   exhausted. Reflexive TA prefers *information power*: sample adequacy judged against study aim, specificity of
-  the sample, quality of dialogue, and analytic strategy. For this work, say what makes each study's sample
-  adequate for the questions it actually answers, and say where it is not: Study 1 speaks to RQ1, Study 2 to
-  system trust and habituation only, and RQ2 and RQ3 wait on Study 3.
+  the sample, quality of dialogue, and analytic strategy. For this work, say what makes each phase's sample
+  adequate for the questions it actually answers, and say where it is not: Phase 1 speaks to RQ1; Phase 2 speaks
+  to RQ2 and RQ3 through `[lived]` codes, and through `[hypothetical]` codes only to how families reasoned about
+  a described design. `/output/Method.md` makes no saturation claim and neither does this analysis.
 - **Validity**: reframe as trustworthiness and quality of interpretation. The claim is not that another analyst
   would produce the same themes, but that these themes are well-evidenced, coherent, transparently derived, and
   useful.
@@ -211,10 +216,11 @@ create work the drafting skills then have to undo:
   context and is labeled as such. No theme answers a retired question.
 - **Evidence.** Every extract carries a participant id and, where the transcript has one, a timestamp. Counts
   match AGENTS.md Section 3 exactly where they touch study facts.
-- **Theory.** The Theory Alignment block exists in `cross-study/05-reflexivity.md`, the ledger is updated in the same
+- **Theory.** The Theory Alignment block exists in `cross-phase/05-reflexivity.md`, the ledger is updated in the same
   run, and the enforcement rule holds: if a theoretical citation could be deleted without changing a paragraph's
   conclusion, either the paragraph is rewritten so the theory works or the citation goes.
 - **Framing.** No artifact frames an older adult as a deficit technology should repair, re-centers the lone user
-  in place of the care network, or lets a described agent capability outrun what `/system/` logs.
-- **Anonymity.** No unconfirmed participant name appears anywhere in the slot; `anon_scan.sh` passes.
+  in place of the care network, or lets a described agent capability outrun the deployed list in
+  `/output/Method.md`.
+- **Anonymity.** No caregiver name, employer, or workplace appears anywhere in the slot; `anon_scan.sh` passes.
 - **Tension.** Disconfirming cases appear in `FINAL-REPORT.md`, not only in the coding tables.

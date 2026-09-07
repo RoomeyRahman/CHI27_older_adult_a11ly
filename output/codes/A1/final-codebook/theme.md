@@ -1,0 +1,89 @@
+# Themes and sub-themes: the story the codebooks tell
+
+Built from `phase-1/final-codebook.md` and `phase-2/final-codebook.md`, which were built from the four role master codebooks. Every theme below is one claim. Every sub-theme names the codes (Phase 1 `M` ids, Phase 2 `M` ids) that carry it, so a Findings paragraph can be traced to a code, a participant, and a line. Quotes are verbatim; Phase 2 quotes carry their evidence grade in the sentence that introduces them. The arc runs from current practice and its tensions (Phase 1), through the barriers those tensions produce, to the expectations participants stated before the build, to what the two-week deployment showed, to the contribution. Household pairing is unfiled; no paired episode is claimed.
+
+---
+
+## Part A. Current practice and its tension: medication work is shared, and the tools assume it is not (Phase 1, RQ1)
+
+### Theme A1. Medication work is shared: the older adult takes, kin know, buy, and speak to the doctor
+The tension this theme sets up: every reminder app, pillbox, and alarm the households had met assumes one user who knows the regimen and remembers it alone. In these households nobody holds the whole regimen. The older adult holds the act and the recognition by strip and place; a son holds the names and the prescription; a wife knows morning and night; the pharmacist reads handwriting; the doctor decides.
+- A1a. The act and the recognition stay with the older adult (P1 M01, M02, M03). "Taking is easy. Knowing which medicine is little difficult" (P08, Phase 1, L101).
+- A1b. Names, papers, stock, and the doctor channel are held by kin, in roles nobody decided (P1 M09, M10, M11, M12, M26, M23). "He keeps the prescription also. He knows what doctor said. My wife knows which tablet I take morning and night. I know by looking at the strip." (P04, Phase 1, L51). "It mostly just happened. I started helping because they needed it, and then it became my routine." (C01, Phase 1, L357).
+- A1c. Pharmacist and doctor above the family; peers give talk, never authority (P1 M13, M14, M15, M16). "Doctor is still doctor." (C01, Phase 1, L401).
+- Barrier it names: literacy and handwriting, packets that change, a regimen distributed across people who are not always in the same room. A tool addressed to the lone user is addressed to nobody.
+
+### Theme A2. Misses are events of attention and supply, repaired by a question
+The tension: the field's answer to a missed dose is a louder reminder to the individual. Here a miss happens when guests come, the field runs late, or the strip runs out, and it is repaired by whoever is present asking, because the older adult's own report is unreliable and the question resolves it either way.
+- A2a. Attention lost to guests, work, and travel; everyone busy at once; stock running out (P1 M04, M08, M25). "She knows she has to take it but the time goes away." (C01, Phase 1, L89). "I miss only when the stock of my medicines run out or if they are unavailable to buy near me." (P15, Phase 1, L34).
+- A2b. An unreliable self-report and the question that restores it (P1 M05, M06, M17, M07). "Sometimes I say yes I have taken, then I realise no no I haven't." (P05, Phase 1, L59). "I tell her yes yes I know. Then sometimes I still forget the bag." (P05, Phase 1, L123).
+- A2c. The caregiver's problem: knowing in absence (P1 M24). "If I cannot then I just have to trust that she will take it. There is no proper way to know." (C01, Phase 1, L109).
+- Barrier it names: distance and work hours; the caregiver cannot check by presence, and the older adult cannot be relied on to know. This is the gap an agent with initiative could fill, and it is a knowledge gap in a network, not a memory gap in a person.
+
+### Theme A3. Checking is care with limits: accepted as help, contested when constant
+The tension: monitoring is read by the literature as surveillance, and by these households as care, and both are right at different moments. Older adults accept a son's checking as safety and a wife's as help, get irritated when it is constant, and refuse to be watched all the time.
+- A3a. Whoever is present reminds; distant kin call (P1 M18, M19). "Sometimes everyone reminds everyone. Like did you take your medicine, did you take yours. It is kind of normal in the family." (C02, Phase 1, L105).
+- A3b. Received as safety, relief, help, and irritation (P1 M20, M21). "He is my son. I feel safe when he checks." (P07, Phase 1, L175). "Sometimes I get irritated also because she asks so much. But later I think okay she is helping." (P05, Phase 1, L223).
+- A3c. Told about a miss, not watched; small refusals inside a large delegation (P1 M22, M27). "But don't make it like somebody is watching me all the time." (P04, Phase 1, L167).
+- Barrier it names: any system that tells the family every dose turns care into watching. The proportion families already keep (a miss, not every dose) is the rule the agent must inherit.
+
+### Theme A4. Tools added tasks; an agent is admitted where the family is not, speaking the name, visible, and below the doctor
+The tension: every aid tried so far failed by adding a task or by ringing without saying what for. Participants still describe, before the build, exactly where an agent could sit and what it must do.
+- A4a. Aids abandoned, alarms that do not compel, technology declined or displaced (P1 M28, M29, M40). "Sometimes the alarm is there but she doesn't know which medicine it is for." (C04, Phase 1, L89).
+- A4b. Set by the young, trusted through them, placed where nobody is present (P1 M30, M31, M32). "At home wife already tells me. Outside there is no one. So phone can tell there." (P06, Phase 1, L267). "If son puts everything then I will trust it more. I know he checked it." (P04, Phase 1, L179).
+- A4c. Conditions stated before the build (P1 M33 to M39): record below the act, speak the name, one kin after a delay, never secretly, simple to the older adult and detailed to the kin, never a doctor. "Taking medicine is the main thing. Pressing button should be secondary." (P05, Phase 1, L211). "I don't think it should secretly check. They should know. It is for helping them." (C01, Phase 1, L325). "It should not act like a doctor." (C02, Phase 1, L245).
+- Expectation it states: the agent's place, direction, visibility, revocability, and role were all named by participants before they saw it. Phase 2 tests these.
+
+---
+
+## Part B. What the deployment showed: allegiance inherited, care kept, the record held below the person (Phase 2, RQ2 and RQ3)
+
+### Theme B1. Allegiance inherited: the agent joined the household's division and was shared through kin
+The claim: nobody decided whom the agent works for. It took the one empty seat, the first reminder where nobody was present, and became the household's when a daughter, son, or daughter-in-law checked it. The grants confirmed the division rather than moving it.
+- B1a. The announcement heard: clear, a little exposing, a condition on telling (P2 M01, M02). Lived: "When it said it is working for me, I understood it better. [...] And when it said it is also working with my family, I understood that also." (P10, Phase 2, L13). Lived: "if it says something in front of everyone, then I feel a little, what do you call it, exposed. Not very bad." (P10, Phase 2, L17).
+- B1b. Asked, granted as trust, declined to spare worry (P2 M03, M04, M06). Lived: "Then later it asked for permission to involve the family, something like that. I agreed. After that my son came and asked me if I had taken it. So that was the shift." (P10, Phase 2, L21). Elicited: "My son is not putting the tablet in my mouth. He is just checking. So it felt more like trust." (P10, Phase 2, L25). Lived: "Then I stopped the family alert because there was no need to worry them." (P10, Phase 2, L31).
+- B1c. Shared when kin checked through it; in some homes the caregiver is the first principal (P2 M05, M36). Lived: "my father also knew that if he does not confirm then I may get a notification. So it became more of a family thing." (C03, Phase 2, L29). Lived: "Mostly it reminded me, because I am the one managing their medicines." (C05, Phase 2, L17).
+- B1d. Direction and proportion: first chance, one kin, a real miss, consent, for me first then both (P2 M08, M09, M10, M11, M37). Hypothetical: "One person can ask me and then it is done." (P13, Phase 2, L130). Hypothetical: "When the person using it agrees. In our case my mother is okay with me knowing if she misses a medicine because I already help her." (C04, Phase 2, L189).
+- What it answers: RQ2 assignment and gifting. The plural principal is ordered, "for me first, then both", and its first member varies by household.
+
+### Theme B2. The first reminder moved to the agent; asking remained care; the caregiver was relieved, not removed
+The claim: what changed is who reminds first. What did not change is that kin ask, that asking is care as well as irritation, and that the feeling behind asking is not something the agent carries. Caregivers name the relief precisely: work, not care.
+- B2a. Relocation (P2 M15, M17). Lived: "Before, someone at home might ask, did you take your medicine. Now the agent does that part first." (P13, Phase 2, L52). Lived: "So there is less unnecessary asking." (P06, Phase 2, L83).
+- B2b. Care and irritation in one sentence; the phone does not know if I have eaten (P2 M16, M19). Elicited: "Sometimes I get irritated when they ask again and again, but I know why they ask. It is because they are worried. The app doesn't replace that feeling." (P05, Phase 2, L75). Lived: "Phone does not know if I have eaten or if I am outside. So her reminder is different." (P04, Phase 2, L93).
+- B2c. Less pressure, not less responsibility: the caregiver's clock stopped (P2 M34, M35). Lived: "I don't keep watching the clock for their medicine. I can focus on my work." (C03, Phase 2, L165). Lived: "it reduces the pressure on the family without removing the family from it." (C03, Phase 2, L205).
+- B2d. Counter-case: the self-manager refuses a family project (P2 M18). Elicited: "I don't want my medicine routine to become a family project." (P11, Phase 2, L62). Where no kin does medication work, there is no allegiance to negotiate.
+- What it answers: RQ2 contestation, resolved inside care; the boundary of the collectivist reading.
+
+### Theme B3. Person over record: silence is busyness, the doctor decides, and change must be visible
+The claim: the households applied their own rule to the agent. A record does not secure the act; a person checks before the record is believed; the doctor and the prescription decide; and a change must reach everyone, or the wife reminds of the old and the son brings the old.
+- B3a. Silence and the record; a false alarm is failure (P2 M12, M13, M14). Lived: "Sometimes I take the medicine and then forget to press the button. So no response does not always mean I did not take it." (P06, Phase 2, L51). Lived: "Then we understood that the family side can be useful, but the phone does not know everything." (P05, Phase 2, L19). Lived: "Now I would treat no response as something to check." (C03, Phase 2, L61). Hypothetical: "then he will worry for no reason." (P06, Phase 2, L63).
+- B3b. Pushback as described: irritated, then accepted (P2 M07, believed-capability). "I thought, I already told you, why are you asking again. But then I understood why it was doing that." (P10, Phase 2, L35). The weakening veto was not built; this is reasoning about a described design.
+- B3c. The doctor decides; a way to say no; mismatches checked (P2 M22, M23, M32). Hypothetical: "The prescription is the authority for me. The system should follow that, not make its own decision." (P15, Phase 2, L43). Hypothetical: "The assistant is for reminding, not for forcing me." (P14, Phase 2, L45). Lived: "there were times when something did not match what we knew from the prescription. Then I would check it instead of just accepting it." (C03, Phase 2, L49).
+- B3d. Stale until updated; tell everyone what changed and why; explain the warning (P2 M20, M21, M24). Lived: "The agent was still reminding me based on the previous schedule until the change was updated." (P11, Phase 2, L70). Elicited: "Otherwise my wife may remind me about the old one." (P04, Phase 2, L105). Hypothetical: "it should explain what the problem is." (C01, Phase 2, L36).
+- What it answers: RQ3 roles (tool legitimate without condition), revocability (the decline lived, the veto imagined and grounded in a document), visibility and ceremony (change as a household event with a stated reason).
+
+### Theme B4. Relational outcomes: a streak the family talked about, trust by testing, memory reinforced
+The claim: the deployment's outcomes are small and relational. The streak's affect was supplied by kin; trust was earned against what the household already held; memory was reinforced rather than replaced.
+- B4a. The streak noticed and praised, broken and made small, not a game, family may see (P2 M25 to M29). Lived: "It became a small thing we talked about." (P05, Phase 2, L95). Lived: "If I was alone, maybe I would have felt more annoyed. With family, they made it into a small thing." (P10, Phase 2, L79). Elicited: "Medicine is not a game. If it gives some encouragement, okay." (P08, Phase 2, L149).
+- B4b. Tested against routine, alarm, notes, or prescription; trusted through the kin who set it (P2 M30, M31). Lived: "Then I tested it when I was outside, because that is where my routine usually becomes less regular." (P11, Phase 2, L102). Lived: "If my son puts the medicine and time, then I know it is from my prescription." (P06, Phase 2, L27).
+- B4c. A second memory; sound as register; limits; stock (P2 M33, M38, M39, M40). Elicited: "It is more like a second memory." (P06, Phase 2, L147). Elicited: "the repeated timing has made me remember the dose time better. Sometimes I know it is almost time before the phone says anything." (P10, Phase 2, L97). Counter-case, elicited: "But I still forget sometimes." (P13, Phase 2, L108).
+- What it answers: RQ3 outcomes and mechanisms: gamification as relational trigger, trust through self-verification, memory restored rather than replaced.
+
+---
+
+## Part C. From tension to expectation to contribution
+
+**The tension.** Adherence tools, and alignment research, assume a single principal who knows the regimen and remembers alone (A1, A4a). These households distribute the regimen (A1), locate misses in attention and supply (A2), and treat checking as care with a limit (A3). A tool addressed to the lone user is addressed to nobody, and a monitor that reports every dose turns care into watching.
+
+**The barriers.** Reading (handwriting, changing packets), presence (caregivers at work, older adults in the field), device sharing and non-reading (the score belongs to whoever can see it), the doctor's authority over any change, supply, and the older adult's refusal of being watched all the time.
+
+**The expectations.** Before the build, participants placed the agent where the family is not, asked it to speak the medicine's name, to tell one kin after a first chance, never to check secretly, to stay below the doctor, and to be set by the young and simple to the old (A4). These are the four dimensions and the tool role, in participants' words.
+
+**What the deployment showed.** The expectations held (B3), and the agent's allegiance was inherited rather than decided (B1). The first reminder moved and care did not (B2). The record was held below the person (B3). Outcomes were relational: the streak's affect, trust, and memory were all supplied or confirmed by kin (B4). New tensions appeared: the caregiver as first principal where she administers (B1c); consent named as the condition only when a system had to be configured (B1d); stale knowledge after a change (B3d); the self-manager for whom there is no network to negotiate (B2d).
+
+**The contribution.**
+- C1, empirical: the human affiliation baseline (A1 to A3) and a typology of how the agent's allegiance was assigned (by absence and by kin's checking), gifted (granted as trust), contested (irritation held inside care; the self-manager's refusal), revoked (the decline to spare worry), and made ceremonial (the announcement; the change told to everyone), with counter-cases kept.
+- C2, conceptual: the tool role legitimate without condition; coach accepted as small encouragement and refused as pressure; advocate accepted under three triggers (a miss, a long silence, finishing stock) after the older adult's first chance, toward one kin, with consent. The four dimensions carried by data: direction set by knowledge, presence, or role; visibility as speech and as the reason for a change; revocability lived as the decline and grounded in a document; ceremony as maintenance and explanation, with the taking of a role still unannounced.
+- C3, design: make the agent's loyalty something families can see and move. The mechanisms that did this were the spoken announcement, the request the older adult can grant or decline, the person's check before the record's verdict, and a change announced to everyone who reminds or buys. Scores and streaks worked only as relational triggers; the household, not the mechanic, supplied their meaning.
+
+**What generalizes.** The claims are about Bangladesh and these 25 participants. What travels is the contrast: an agent designed for one principal, entering a household where the work is already collective, is renegotiated into a plural principal along the household's own division. Households, shared budgets, and classrooms face the same question when an agent with initiative serves several people; the answer these households gave, inheritance plus proportion, direction, and consent, is a hypothesis for those settings, not a finding about them.

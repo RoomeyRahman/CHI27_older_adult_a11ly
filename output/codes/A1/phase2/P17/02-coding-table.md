@@ -1,0 +1,38 @@
+<!-- slot: A1 | unit: phase2/P17 | pass: A complete | B complete | C complete | D complete | E complete -->
+# P17, Phase 2: Pass A candidate coding table
+
+Source: `Supplementary/Interviews/phase-2/Participants/P17.md`. Line numbers are locators. Extracts participant-only, verbatim as filed (source quotation marks dropped). Types: S semantic, L latent. Tags: `[lived]`, `[elicited]`, `[hypothetical]`, `[believed-capability]`, `[in-vivo]`, `[tr]`.
+
+**Candidate count: 27.** No sub-theme or theme names appear in this file.
+
+| Line | Extract (verbatim, trimmed) | Code | Type | Analytic note |
+|---|---|---|---|---|
+| L14 | "It is mainly helping me because I manage my own medicines. I don't require anyone's help normally. So I see it as a support for my own routine." (P17, Phase 2, L14) | 'I don't require anyone's help normally' [tr] | L | `[lived]`. The smallest care network in the phase. |
+| L18 | "It was clear. If it is only reminding me about the medicine, then that is fine. I don't think it needs to interfere beyond that." (P17, Phase 2, L18) | Clear; not beyond reminding | S | `[elicited]` frame. |
+| L22 | "I am comfortable with phones and computers, so I can manage it myself. If there is some important issue, then of course I can discuss it with the doctor." (P17, Phase 2, L22) | Comfortable with phones; doctor for issues | S | `[lived]`. Family absent from the sentence. |
+| L26 | "It can work independently for reminders. I should remain in control. The system should remind me, not make medical decisions for me." (P17, Phase 2, L26) | 'I should remain in control' [tr] | L | `[elicited]` frame. |
+| L34 | "I would check the prescription and the package. I would not blindly follow the system. The hard copy prescription is still important." (P17, Phase 2, L34) | 'The hard copy prescription is still important' [tr] | S | `[hypothetical]`. |
+| L38 | "If there is a genuine risk, then a stronger warning is useful. But it should be based on correct information. Medicine is a serious matter." (P17, Phase 2, L38) | Stronger warning on genuine risk, if correct | S | `[hypothetical]`. |
+| L42 | "It can remind me again after some time. Sometimes a person can be occupied with something else. But I would not want repeated alarms continuously." (P17, Phase 2, L42) | Again; not continuously | S | `[hypothetical]`. |
+| L46 | "For me, not necessarily. I manage my own medicines and I usually do not miss doses. If there is some unusual situation, then I would rather handle it myself or contact the doctor." (P17, Phase 2, L46) | 'I would rather handle it myself or contact the doctor' [tr] | L | `[hypothetical]`. Family notification declined in principle. |
+| L50 | "A normal reminder is simply telling me it is time for the medicine. A serious problem would be something like a medicine being changed, an unexpected issue, or something that does not match the prescription. That should be treated separately." (P17, Phase 2, L50) | Serious: change, mismatch, unexpected | S | `[elicited]` frame. |
+| L58 | "There was not much checking before because I already manage it myself. So the main change is that I have another reminder. It is not replacing any family routine." (P17, Phase 2, L58) | 'It is not replacing any family routine' [tr] | L | `[lived]`. No family checking to relocate. |
+| L62 | "Not completely. My memory is still good. But having a reminder is useful as an additional support. There is no harm in having another check." (P17, Phase 2, L62) | 'no harm in having another check' [tr] | S | `[elicited]`. |
+| L66 | "I would contact the doctor. My doctor reviews my prescriptions every three months, so any change should come from the doctor." (P17, Phase 2, L66) | Doctor reviews every three months | S | `[hypothetical]`. |
+| L70 | "The important person would be the doctor. I would not make a change just because a software system suggested it." (P17, Phase 2, L70) | 'The important person would be the doctor' [tr] | S | `[hypothetical]`. |
+| L78 | "It could show that I have been following the routine properly. But I don't think I need a score. Taking medicine on time is already my first priority." (P17, Phase 2, L78) | No need of a score; first priority | S | `[elicited]`. |
+| L82 | "It may be pleasant, but it is not necessary. I already take the medicines regularly." (P17, Phase 2, L82) | Pleasant, not necessary | S | `[hypothetical]`. |
+| L86 | "I would be more concerned about why I missed the dose than about the streak. The actual medicine is important, not the number." (P17, Phase 2, L86) | Why I missed, not the streak | S | `[hypothetical]`. |
+| L90 | "Since I manage my own medication, I don't think the progress needs to be shared unless there is some actual problem." (P17, Phase 2, L90) | 'unless there is some actual problem' [tr] | S | `[hypothetical]`. Sharing declined. |
+| L98 | "Initially I would compare it with my prescription and medicine packages. I would want to see whether the reminders are coming at the correct times." (P17, Phase 2, L98) | Compare with prescription and packages | S | `[hypothetical]` mood. |
+| L102 | "If the reminders consistently match the prescription, then I can depend on it more. But I would still keep the prescription because that is the proper reference." (P17, Phase 2, L102) | 'the proper reference' [tr] | L | `[hypothetical]`. The document retained above the agent. |
+| L106 | "My memory is suitable for me. The system is just another aid. It makes the routine a little safer because there is an additional reminder." (P17, Phase 2, L106) | 'makes the routine a little safer' [tr] | S | `[elicited]` frame. |
+| L110 | "Especially because my doctor reviews it every three months. If something changes, the reminder system also needs to be updated." (P17, Phase 2, L110) | 'the reminder system also needs to be updated' [tr] | L | `[hypothetical]`. The agent's knowledge contingent on update. |
+| L118 | "Primarily me, because I take care of my own medicines. The doctor is responsible for prescribing and reviewing them. The system is only supporting the routine." (P17, Phase 2, L118) | 'Primarily me' [tr] | S | `[elicited]`. Principal: him and the doctor. |
+| L122 | "If there was a serious problem, some notification could be useful. But I don't think family needs to be involved in ordinary reminders because I can manage those myself." (P17, Phase 2, L122) | Family not in ordinary reminders | S | `[hypothetical]`. |
+| L126 | "If there is something unusual that I cannot handle, or if there is a serious issue with the medicine, then it could be useful to involve someone. But normal medicine reminders should remain with me." (P17, Phase 2, L126) | 'normal medicine reminders should remain with me' [tr] | L | `[hypothetical]`. Advocate only on the unusual. |
+| L130 | "I did not have a major problem before because I remember my medicines well. But a reminder system is useful in this age of technology. It is an additional support." (P17, Phase 2, L130) | 'useful in this age of technology' [tr] | S | `[lived]` evaluation. |
+| L134 | "It should be usable by everyone. Especially people who are not equally educated. It should not assume that everyone understands complicated software." (P17, Phase 2, L134) | 'usable by everyone' [tr] | L | `[elicited]`. Speaking for others; distance from the target user. |
+| L138 | "It should be simple. The reminder should be clear, and the information should be easy to understand. Different people have different levels of education and technology experience, so that should be considered." (P17, Phase 2, L138) | Simple, for different levels | S | `[elicited]`. |
+
+The closing turns at L142 to L146 repeat the simplicity point and thank: `[no code, closing]`.
